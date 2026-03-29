@@ -99,6 +99,36 @@ export interface UpdateBookInput {
   notes?: string | null;
 }
 
+export interface Item {
+  id: number;
+  name: string;
+  description?: string | null;
+  category?: string | null;
+  locationId?: number | null;
+  notes?: string | null;
+  createdAt: string;
+}
+
+export type ItemWithLocation = Item & {
+  location?: Location | null;
+};
+
+export interface CreateItemInput {
+  name: string;
+  description?: string | null;
+  category?: string | null;
+  locationId?: number | null;
+  notes?: string | null;
+}
+
+export interface UpdateItemInput {
+  name?: string;
+  description?: string | null;
+  category?: string | null;
+  locationId?: number | null;
+  notes?: string | null;
+}
+
 /**
  * Opaque session token — `Bearer <sid>`.
  */
@@ -117,4 +147,10 @@ export type HandleBrowserLoginCallbackParams = {
 export type ListBooksParams = {
   search?: string;
   locationId?: number;
+};
+
+export type ListItemsParams = {
+  search?: string;
+  locationId?: number;
+  category?: string;
 };

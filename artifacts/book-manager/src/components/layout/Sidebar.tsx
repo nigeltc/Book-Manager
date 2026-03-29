@@ -1,5 +1,5 @@
 import { Link, useLocation } from "wouter";
-import { BookOpen, MapPin, Library, LogOut, User } from "lucide-react";
+import { BookOpen, MapPin, Library, LogOut, User, Package } from "lucide-react";
 import { cn } from "@/lib/utils";
 import { useAuth } from "@workspace/replit-auth-web";
 
@@ -9,6 +9,7 @@ export function Sidebar() {
 
   const navItems = [
     { name: "My Collection", href: "/", icon: BookOpen },
+    { name: "Other Items", href: "/items", icon: Package },
     { name: "Locations", href: "/locations", icon: MapPin },
   ];
 

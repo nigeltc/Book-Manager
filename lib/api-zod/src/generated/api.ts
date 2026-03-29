@@ -265,3 +265,122 @@ export const UpdateBookResponse = zod
 export const DeleteBookParams = zod.object({
   id: zod.coerce.number(),
 });
+
+/**
+ * @summary List items with optional search
+ */
+export const ListItemsQueryParams = zod.object({
+  search: zod.coerce.string().optional(),
+  locationId: zod.coerce.number().optional(),
+  category: zod.coerce.string().optional(),
+});
+
+export const ListItemsResponseItem = zod
+  .object({
+    id: zod.number(),
+    name: zod.string(),
+    description: zod.string().nullish(),
+    category: zod.string().nullish(),
+    locationId: zod.number().nullish(),
+    notes: zod.string().nullish(),
+    createdAt: zod.coerce.date(),
+  })
+  .and(
+    zod.object({
+      location: zod
+        .object({
+          id: zod.number(),
+          name: zod.string(),
+          description: zod.string().nullish(),
+          createdAt: zod.coerce.date(),
+        })
+        .nullish(),
+    }),
+  );
+export const ListItemsResponse = zod.array(ListItemsResponseItem);
+
+/**
+ * @summary Create an item
+ */
+export const CreateItemBody = zod.object({
+  name: zod.string(),
+  description: zod.string().nullish(),
+  category: zod.string().nullish(),
+  locationId: zod.number().nullish(),
+  notes: zod.string().nullish(),
+});
+
+/**
+ * @summary Get an item by ID
+ */
+export const GetItemParams = zod.object({
+  id: zod.coerce.number(),
+});
+
+export const GetItemResponse = zod
+  .object({
+    id: zod.number(),
+    name: zod.string(),
+    description: zod.string().nullish(),
+    category: zod.string().nullish(),
+    locationId: zod.number().nullish(),
+    notes: zod.string().nullish(),
+    createdAt: zod.coerce.date(),
+  })
+  .and(
+    zod.object({
+      location: zod
+        .object({
+          id: zod.number(),
+          name: zod.string(),
+          description: zod.string().nullish(),
+          createdAt: zod.coerce.date(),
+        })
+        .nullish(),
+    }),
+  );
+
+/**
+ * @summary Update an item
+ */
+export const UpdateItemParams = zod.object({
+  id: zod.coerce.number(),
+});
+
+export const UpdateItemBody = zod.object({
+  name: zod.string().optional(),
+  description: zod.string().nullish(),
+  category: zod.string().nullish(),
+  locationId: zod.number().nullish(),
+  notes: zod.string().nullish(),
+});
+
+export const UpdateItemResponse = zod
+  .object({
+    id: zod.number(),
+    name: zod.string(),
+    description: zod.string().nullish(),
+    category: zod.string().nullish(),
+    locationId: zod.number().nullish(),
+    notes: zod.string().nullish(),
+    createdAt: zod.coerce.date(),
+  })
+  .and(
+    zod.object({
+      location: zod
+        .object({
+          id: zod.number(),
+          name: zod.string(),
+          description: zod.string().nullish(),
+          createdAt: zod.coerce.date(),
+        })
+        .nullish(),
+    }),
+  );
+
+/**
+ * @summary Delete an item
+ */
+export const DeleteItemParams = zod.object({
+  id: zod.coerce.number(),
+});

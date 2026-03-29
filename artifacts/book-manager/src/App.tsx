@@ -6,6 +6,7 @@ import NotFound from "@/pages/not-found";
 import { Sidebar } from "@/components/layout/Sidebar";
 import BooksPage from "@/pages/Books";
 import LocationsPage from "@/pages/Locations";
+import ItemsPage from "@/pages/Items";
 import { useAuth } from "@workspace/replit-auth-web";
 import { Library, LogIn, BookOpen, Loader2 } from "lucide-react";
 
@@ -84,6 +85,7 @@ function AppLayout({ children }: { children: React.ReactNode }) {
 
       <div className="md:hidden fixed bottom-0 left-0 w-full bg-card border-t border-border z-50 flex justify-around p-2">
         <a href="/" className="p-3 text-muted-foreground hover:text-primary"><span className="text-xs font-medium">Books</span></a>
+        <a href="/items" className="p-3 text-muted-foreground hover:text-primary"><span className="text-xs font-medium">Items</span></a>
         <a href="/locations" className="p-3 text-muted-foreground hover:text-primary"><span className="text-xs font-medium">Locations</span></a>
       </div>
 
@@ -108,6 +110,7 @@ function Router() {
       <AppLayout>
         <Switch>
           <Route path="/" component={BooksPage} />
+          <Route path="/items" component={ItemsPage} />
           <Route path="/locations" component={LocationsPage} />
           <Route component={NotFound} />
         </Switch>
