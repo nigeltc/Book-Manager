@@ -22,6 +22,7 @@ import {
   List,
   LayoutGrid,
   ArrowUpDown,
+  Download,
 } from "lucide-react";
 import { format } from "date-fns";
 import { useToast } from "@/hooks/use-toast";
@@ -31,6 +32,33 @@ type SortField = "title" | "author";
 type ViewMode = "grid" | "list";
 
 const PAGE_SIZES = [20, 50, 100];
+
+function csvEscape(value: string | null | undefined): string {
+  const str = value ?? "";
+  if (str.includes(",") || str.includes('"') || str.includes("\n")) {
+    return `"${str.replace(/"/g, '""')}"`;
+  }
+  return str;
+}
+
+function exportToCsv(books: BookWithLocation[], filename: string) {
+  const header = ["Title", "Author", "Location", "Notes", "Date Added"];
+  const rows = books.map((b) => [
+    csvEscape(b.title),
+    csvEscape(b.author),
+    csvEscape(b.location?.name),
+    csvEscape(b.notes),
+    csvEscape(format(new Date(b.createdAt), "yyyy-MM-dd")),
+  ]);
+  const csv = [header.join(","), ...rows.map((r) => r.join(","))].join("\n");
+  const blob = new Blob([csv], { type: "text/csv;charset=utf-8;" });
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement("a");
+  a.href = url;
+  a.download = filename;
+  a.click();
+  URL.revokeObjectURL(url);
+}
 
 export default function Books() {
   const [searchTerm, setSearchTerm] = useState("");
@@ -241,7 +269,7 @@ export default function Books() {
             </div>
           </div>
 
-          {/* Row 2: Sort + View toggle */}
+          {/* Row 2: Sort + Download + View toggle */}
           <div className="flex items-center justify-between flex-wrap gap-3">
             <div className="flex items-center gap-2">
               <ArrowUpDown className="w-4 h-4 text-muted-foreground" />
@@ -260,21 +288,49 @@ export default function Books() {
               </button>
             </div>
 
-            <div className="flex items-center gap-1 bg-secondary/50 rounded-xl p-1">
+            <div className="flex items-center gap-3">
+              {/* Download CSV */}
               <button
-                onClick={() => setViewMode("grid")}
-                className={`p-2 rounded-lg transition-colors ${viewMode === "grid" ? "bg-card shadow-sm text-primary" : "text-muted-foreground hover:text-foreground"}`}
-                title="Grid view"
+                onClick={() => {
+                  const isFiltered = !!(searchTerm || locationFilter !== "");
+                  const filename = isFiltered
+                    ? `exlibris-filtered-${Date.now()}.csv`
+                    : "exlibris-library.csv";
+                  exportToCsv(books, filename);
+                }}
+                disabled={books.length === 0}
+                title={
+                  searchTerm || locationFilter !== ""
+                    ? `Download ${books.length} filtered books as CSV`
+                    : `Download all ${books.length} books as CSV`
+                }
+                className="flex items-center gap-2 px-3 py-1.5 rounded-lg text-sm font-medium bg-secondary/60 text-foreground hover:bg-secondary transition-colors disabled:opacity-40 disabled:cursor-not-allowed"
               >
-                <LayoutGrid className="w-4 h-4" />
+                <Download className="w-4 h-4" />
+                <span className="hidden sm:inline">
+                  {searchTerm || locationFilter !== ""
+                    ? `Export ${books.length}`
+                    : "Export all"}
+                </span>
               </button>
-              <button
-                onClick={() => setViewMode("list")}
-                className={`p-2 rounded-lg transition-colors ${viewMode === "list" ? "bg-card shadow-sm text-primary" : "text-muted-foreground hover:text-foreground"}`}
-                title="List view"
-              >
-                <List className="w-4 h-4" />
-              </button>
+
+              {/* View toggle */}
+              <div className="flex items-center gap-1 bg-secondary/50 rounded-xl p-1">
+                <button
+                  onClick={() => setViewMode("grid")}
+                  className={`p-2 rounded-lg transition-colors ${viewMode === "grid" ? "bg-card shadow-sm text-primary" : "text-muted-foreground hover:text-foreground"}`}
+                  title="Grid view"
+                >
+                  <LayoutGrid className="w-4 h-4" />
+                </button>
+                <button
+                  onClick={() => setViewMode("list")}
+                  className={`p-2 rounded-lg transition-colors ${viewMode === "list" ? "bg-card shadow-sm text-primary" : "text-muted-foreground hover:text-foreground"}`}
+                  title="List view"
+                >
+                  <List className="w-4 h-4" />
+                </button>
+              </div>
             </div>
           </div>
         </div>
