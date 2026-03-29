@@ -7,6 +7,9 @@
       "path": "./lib/db"
     },
     {
+      "path": "./lib/replit-auth-web"
+    },
+    {
       "path": "./lib/api-client-react"
     },
     {
