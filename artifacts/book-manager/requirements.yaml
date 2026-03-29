@@ -1,0 +1,17 @@
+packages:
+  "framer-motion": "For smooth page transitions and micro-interactions"
+  "@hookform/resolvers": "Zod validation for react-hook-form"
+  "react-hook-form": "Form state management"
+  "zod": "Schema validation"
+  "date-fns": "For formatting created dates"
+  "clsx": "Utility for constructing className strings conditionally"
+  "tailwind-merge": "Utility for merging tailwind classes without style conflicts"
+
+images:
+  - path: "artifacts/book-manager/public/images/library-bg.png"
+    description: "Abstract, elegant warm beige and terracotta gradient mesh, soft lighting, giving a calm and sophisticated library atmosphere"
+    aspect_ratio: "16:9"
+
+notes:
+  - Using generated Orval hooks from @workspace/api-client-react
+  - Implementing a warm, minimal, elegant design aesthetic with Playfair Display and Inter fonts

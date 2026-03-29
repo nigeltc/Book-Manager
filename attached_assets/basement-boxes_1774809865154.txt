@@ -1,0 +1,2503 @@
+AOB1: Alex Office Books
+-----------------------
+Pocket Oxford Latin Dictionary;
+Oxford Latin Desk Dictionary;
+The Peripheral;Gibson, William
+Calculus DeMystified;Krantz, Steven G.
+Neuromancer;Gibson, William
+Wireless;Stross Charles
+Snow Crash;Stephenson, Neal
+The Verdant Passage;Denning, Troy
+Steampunk;Vandermeer, Ann & Jeff
+A First Course in Database Systems;Ullman, Jeffrey D. & Widom, Jennifer
+Out of the Dark;Weber, David
+Introduction to Algorithms;Cormen, Leiverson, Rivest & Stein
+Applied Statistics for Engineers and Scientists;Petruccelli, Nandram & Chen
+Software Tools; Kernighan, Brian W. & Plauger, P. J.
+The Little Schemer;Friedman, Daniel P. & Felleisen, Matthias
+The Seasoned Schemer;Friedman, Daniel P. & Felleisen, Matthias
+Theory and Design of Pervasive Games;Montola, Stenros, & Waern
+Biology Science for Life;Belk, Colleen & Maier, Virginia Borden
+The Unconquerable;Laumer, Keith
+Old Guard;Laumer, Keith
+Honor of the Regiment;Laumer, Keith
+How to Survive a Robot Uprising;Wilson, Daniel H.
+Dune;Herbert, Frank
+Starship Troopers;Heinlein, Robert A.
+Transition;Banks, Iain
+
+
+NB1: Books - 86s
+Gridlinked;Asher, Neal
+Figures of Earth;Branch Cabell, James
+The Final Encyclopedia;Dickson, Gordon R.
+Apocalypses;Lafferty, R. A.
+Other Worlds;de Bergerac, Cyrano
+The Dark Side of Earth;Bester, Alfred
+Morlock Night;Jeter, K. W.
+Foundation;Asimov, Isaac
+Foundation and Empire; Asimov, Isaac
+10,000 Light Years from Home;Tiptree Jr, James
+The Eighty Minute Hour;Aldiss, Brian
+The Stars My Destination;Bester, Alfred
+Annals of Klepsis;Lafferty, R. A.
+The Skinner;Asher, Neal
+Helliconia Spring;Aldiss, Brian
+Startide Rising;Brin, David
+Nightfall One;Asimov, Isaac
+Nightfall Two;Asimov, Isaac
+Second Foundation;Asimov, Isaac
+The Left Hand of Darkness;LeGuin, Ursula K.
+Enchanter's End Game;Eddings, David
+Next of Kin;Frank Russell, Eric
+Martians Go Home;Brown, Eric
+The Airs of Earth;Aldiss, Brian
+The Canopy of Time;Aldiss, Brian
+Castle of Wizardry;Eddings, David
+Magician's Gambit;Eddings, David
+Queen of Sourcery;Eddings, David
+Lord Foul's Bane;Donaldson, Stephen
+The Other Side of the Sky;Clarke, Arthur C.
+A Fall of Moondust;Clarke, Arthur C.
+Tales from the White Hart;Clarke, Arthur C.
+Voices from the Sky;Clarke, Arthur C.
+2001, A Space Odyssey;Clarke, Arthur C.
+Comeback Tour;Yeovil, Jack
+Between Time & Timbuktu;Vonnegut Jr., Kurt
+Grimble and Grimble at Christmas;Freud, Clement
+Now We are Six; Milne, A. A.
+Fun and Games Indoors; Cox, Jack
+Demon Download;Yeovil, Jack
+Zaragoz; Craig, Brian
+Plague Demon; Craig, Brian
+Krokodil Tears;Yeovil, Jack
+The Silver Stallion, Branch Caball, James
+Dr. Adder; Jeter, K. W. 
+The Drought, Ballard, J. G.
+The Naked Sun; Asimov, Isaac
+The Wind From Nowhere; Ballard, J. G.
+The Glass Hammer; Jeter, K. W.
+Non-Stop; Aldiss, Brian
+The Caves of Steel; Asimov, Isaac
+Black Easter and The Day After Judgement; Blish, James
+High-Rise; Ballard, J. G.
+Officers and Gentlemen;Waugh, Evelyn
+The Moment of Eclipse; Aldiss, Brian
+Years Best SF 11; Hartwell, David G. & Cramer, Kathryn
+The Heart of the Comet; Benford, Gregory & Brin, David
+A Hole in Space; Niven, Larry
+The Jewel in the Skuill; Moorcock, Michael
+
+NBK1 - Books
+7 Trips Through Time and Space;Conklin, Groff
+A Spell for Chameleon;Anthony, Piers
+Adolf Hitler, My Part in His Downfall;Milligan, Spike
+Another Fine Myth;Asprin, Robert
+Barefoot in the Head;Aldiss, Brian
+Beyond the Beyond;Anderson, Poul
+Bimbos of the Death Sun;McCrumb, Sharyn
+Brothers of the Head;Aldiss, Brian
+Carry on Jeeves;Wodehouse, P.G.
+Castle Roogna;Anthony, Piers
+Castle of Wizardry;Eddings, David
+Claudius the God;Graves, Robert
+Cloud Castles;Scott Rohan, Michael
+Dagon and Other Macabre Tales;Lovecraft, H.P.
+Decline and Fall;Waugh, Evelyn
+Deliver Us from Evil;Holland, Tom
+Enchanter's End Game;Eddings, David
+Frankenstein Unbound;Aldiss, Brian
+Grooks;Hein, Piet
+Hells Angels;Thompson, Hunter S.
+Kronk;Cooper Edmund
+Last Orders;Aldiss, Brian
+More Penguin Science Fiction;Aldiss, Brian
+Myth Conceptions;Asprin, Robert
+Myth Directions;Asprin, Robert
+Nine Princes in Amber;Zelazny, Roger
+Our Lady of Darkness;Leiber, Fritz
+Out of the Silent Planet;Lewis, C.S.
+Penguin Science Fiction;Aldiss, Brian
+Playback;Chandler, Raymond
+Power of Three; Wynne Jones, Diana
+Ship of Shadows;Leiber, Fritz
+Something Nasty in the Woodshed; Bonfiglioli, Kyril
+Supping with Panthers; Holland, Tom
+Tales of the Cthulhu Mythos;Derleth, August
+That Hideous Strength;Lewis, C.S.
+The Big Knockover and Other Stories;Hammett, Dashiell
+The Black Cauldron; Alexander, Lloyd
+The Book of Three;Alexander, Lloyd
+The Bridge;Banks, Iain
+The Castle;Kafka, Franz
+The Code of the Woosters;Wodehouse, P.G.
+The Custodians;Cowper, Richard
+The Enchanter Compleated;De Camp, L. Sprague and Pratt, Fletcher
+The Farthest Shore;Le Guin, Ursula
+The Green Man;Amis, Kingsley
+The Heart of the Hunter; van der Post, Laurens
+The High King;Alexander, Lloyd
+The Keep of the Lich Lord;Jackson, Steve and Livingston, Ian
+The Makeshift Rocket;Anderson, Poul
+The Red and the Green; Murdoch, Iris
+The Sign of Four;Conan Doyle, Sir Arthur
+The Source of Magic;Anthony, Piers
+The Star Diaries;Lem, Stanislaw
+The Thurber Carnival; Thurber, James
+The Tombs of Atuan;Le Guin, Ursula
+The Trail of Cthulhu;Derleth, August
+The Trials of Rumpole;Mortimer, John
+The Valley of Fear;Conan Doyle, Sir Arthur
+Three Jacobean Tragedies;Salgado, Gamini
+Three Men in a Boat;Jerome, Jerome K.
+Vile Bodies;Waugh, Evelyn
+Walking on Glass;Banks, Iain
+When the World Screamed;Conan Doyle, Sir Arthur
+Yet More Penguin Science Fiction;Aldiss, Brian
+
+NBK2 - Books
+A Deepness in the Sky;Vinge, Vernor
+Before the Golden Age 2;Asimov, Isaac
+Black Holes;Pournelle, Jerry
+Black Legion of Callisto;Carter, Lin
+Bug Jack BArron;Spinrad, Norman
+Callahan's Crosstime Saloon;Robinson, Spider
+Cat's Cradle;Vonnegut Jr., Kurt
+Cosmonaut Keep;Macleod, Ken
+Dark Light;Macleod, Ken
+Death Angel's Shadow;Wagner, Karl Edward
+Do Androids Dream of Electric Sheep?;Dick, Philip K.
+Fugue for a Darkening Island;Pries, Christopher
+Gloriana;Moorcock, Michael
+Heechee Rendezvous;Pohl, Frederick
+Hello America;Ballard, J. G.
+Inverted World;Priest, Christopher
+Jandar of Callisto;Carter, Lin
+Journey of Joenes;Sheckley, Robert
+Keep the Giraffe Burning;Sladek, John
+Master of Space and Time;Rucker, Rudy
+Mindswap;Sheckley, Robert
+Moorcock's Book of Martyrs;Moorcock,Michael
+On Stranger Tides;Powers, Tim
+Out of Space & Time, Volume 1;Ashton Smith, Clark
+Out of Space & Time, Volume 2;Ashton Smith, Clark
+Redemption Ark;Reynolds, Alastair
+Schismatrix;Sterling, Bruce
+Scholars and Soldiers;Gentle, Mary
+Software;Rucker, Rudy
+Star Songs of an Old Primate;Tiptree Jr., James
+Superheroes;Parry, Michel
+Tales of Science and Sorcery;Ashton Smith, Clark
+The Artificial Kid;Sterling, Bruce
+The Best of John Sladek;Sladek, John
+The Chinese Agent;Moorcock, Michael
+The Condition of Muzak;Moorcock, Michael
+The Crystal Cave;Stewart, Mary
+The Dying Earth;Vance, Jack
+The End of all Songs;Moorcock, Michael
+The Eyes of the Overworld;Vance, Jack
+The Far-Out Worlds of A. E. Van Vogt;Van Vogt, A. E.
+The Flight of the Horse;Niven, Larry
+The Galaxy Primes;Smith, E. E. 'Doc'
+The Great Game, Past Imperative;Duncan, David
+The Hollow Lands;Moorcock, Michael
+The Honourable Company;Keay, John
+The Instrumentality of Mankind;Smith, Cordwainer
+The Planet Buyer;Smith, Cordwainer
+The Rediscovery of Man;Smith, Corwainer
+The Robot Who Looked Like Me;Sheckley, Robert
+The Sailor on the Seas of Fate;Moorcock, Michael
+The Sirens of Titan;Vonnegut Jr., Kurt
+The Underpeople;Smith, Cordwainer
+The Warlock in Spite of Himself;Stasheff, Christopher
+The Well at the World's End;Morris, William
+Time Travelers Strictly Cash;Robinson, Spider
+Time and Again;Simak, Clifford D.
+Vacuum Flowers;Swanwick, Michael
+Venus on the Half-Shell;Trout, Kilgore
+Wampeters, Foma & Granfalloons;Vonnegut Jr., Kurt
+Welcome to the Monkey House;Vonnegut Jr., Kurt
+Wooden Spaceships;Shaw, Bob
+
+N22 - Books
+The Predictors;Bass, Thomas A.
+The Great Mortdecai Moustache Mystery;Bonfiglioni, Kyril
+Rats and Gargoyles;Gentle, Mary
+Whit;Banks,Iain
+American Gods;Gaiman, Neil
+Tarzan Alive;Farmer, Philip Jose
+A Sudden Wild Magic;Wynne Jones, Dianna
+Apocalypso;Rankin, Robert
+The Dance of the Voodoo Handbag;Rankin, Robert
+Cart & Cwidder;Wynne Jones, Dianna
+The Brentford Triangle;Rankin, Robert
+Snuff Fiction;Rankin, Robert
+Raiders of the Lost Car Park;Rankin, Robert
+Waiting for Godalming;Rankin, Robert
+The Book of Ultimate Truths;Rankin, Robert
+Buffon's Natural History;Buffon
+Elidor;Garner, Alan
+The Castle of the Winds;Rohan, Michael Scott
+Report on Planet Three;Clarke, Arthur C.
+Warlock at the Wheel;Wynne Jones, Dianna
+A Swarm in May;Mayne, William
+The Wild;Zindell, David
+Revelation Space;Reynolds, Alastair
+Voyage;Baxter, Stephen
+Titan;Baxter, Stephen
+Shiva 3000;Jensen, Jan Lars
+Tales of Known Space;Niven, Larry
+A Zoo in My Luggage;Durrell, Gerald
+Black Maria;Wynne Jones, Dianna
+Taran Wanderer;Alexander, Lloyd
+The Secret World of Polly Flint;Cresswell, Helen
+Rogue Ship;van Vogt, A. E. 
+Distraction;Sterling, Bruce
+Between the Strokes of Night;Sheffield, Charles
+The Fenris Device;Stableford, Brian
+An Alien Heat;Moorcock, Michael
+The Sign of the Unicorn;Zelazny, Roger
+Neverness; Zindell, David
+The Unseen University Challenge;Langford, David
+The Paradox Men;Harness, Charles L.
+Howl's Moving Castle;Wynne Jones, Dianna
+Dogsbody;Wynee Jones, Dianna
+Eight Days of Luke;Wynne Jones, Dianna
+The Lives of Christopher Chant;Wynne Jones, Dianna
+Hamkmoon;Moorcock, Michael
+
+N24 - Books
+The Complete Illustrated Lewis Carroll;Carroll, Lewis
+Captain Cabair Comes to School;
+The British Museum;
+The Natural History Museum;
+Ancient Empires;Reader's Digest
+Manwatching;Morris, Desmond
+The Mathematical Tourist;Peterson, Ivars
+A Guide to the Prehistoric and Roman Monuments in England and Wales;Hawkes, Jacquetta
+The Player of Games;Banks, Iain M.
+The New Journalism;Wolfe, Tom
+Gormenghast;Peake, Mervyn
+Game, Set and Math;Stewart, Ian
+Doctor Brodie's Report;Borges, Jorge Luis
+The Book of Sand;Borges, Jorge Luis
+Guardians of the West;Eddings, David
+Expecting Someone Taller;Holt, Tom
+Retief's Ransom;Laumer, Keith
+Nova;Delany, Samuel R.
+Who's Afraid of Beowulf;Holt, Tom
+Tales from the Forbidden Planet;Kaveney, Roz
+Faust;Nye, Robert
+Joe Bob Goes to the Movies;Briggs, Joe Bob
+Conceptual Blockbusting;Adams, James L.
+Advanced Engineering Mathematics;Kreyszig, Erwin
+
+NBK3 - Books
+Pleasure of Ruins;Macaulay, Rose
+The Star Fraction;Macleod, Ken
+The Stone Canal;Macleod, Ken
+The Ascent of Man;Bronowski, J.
+Mysteries of the Ancient World;
+Experimental Physics, Modern Methods;Dunlap, R. A.
+Barrier 346;Zeigfreid, Karl
+In Search of the Dark Ages;Wood, Michael
+The Neutronium Alchemist;Hamilton, Peter F.
+Cold Comfort Farm;Gibbons, Stella
+The Nature of Space and Time; Hawking, Stephen and Penrose, Roger
+Stardust; Gaiman, Neil
+Archaeology, An Introduction;Greene, Kevin
+Roman Baths
+
+NBK4 - Books
+The Magicians of Caprona;Jones, Diana Wynne
+Absolute Zero;Cresswell, Helen
+Charmed Life;Jones, Diana Wynne
+Warped Passages;Randall, Lisa
+Quantun Physics;Gasiorowicz, Stephen
+Consider a Spherical Cow;Harte, John
+Encyclopedia of Physics;Lerner & Trigg
+Ghostwalk;Stott, Rebecca
+The Risen Empire;Westerfirld, Scott
+The Mysterious Captain Brocklehurst;Bray, Jean
+How to Survive a Robot Uprising;Wilson, Daniel
+The Perfect Storm;Junger, Sebastian
+Prince of Ayodhya;Banker, Ashok K.
+Hidden Empire;Anderson, Kevin J.
+The Scar; Mieville, China
+Coalescent;Baxter, Stephen
+New Tales of the Cthulhu Mythos;Campbell, Ramsey
+The Demolished Man;Bester, Alfred
+The Terminal Beach;Ballard, J. G.
+The Four-Dimensional Nightmare;Ballard, J. G.
+Schismatrix;Sterling, Bruce
+Chase the Morning;Rohan, Michael Scott
+SMB: The Server Message Block Protocol;
+
+NBK5 - Books
+Altered Carbon;Morgan, Richard
+Vacuum Diagrams;Baxter, Stephen
+The Time Ships;Baxter, Stephen
+A Fire Upon The Deep;Vinge, Vernor
+The Drowned World;Ballard, J. G.
+Dr. No;Fleming, Ian
+Romeo and Juliet;Shakespeare, William
+Ender's Shadow;Card, Orson Scott
+Newton's Wake;Macleod, Ken
+Riddles in Mathematics;Northrop, Eugene P.
+The Club of Queer Trades;Chesterton, G. K.
+Mona Lisa Overdrive;Gibson, William
+Labyrinths;Borges, Jorge Luis
+Other Worlds;Davies, Paul
+Shadows of the Mind;Penrose, Roger
+The First Three Minutes;Weinberg, Steven
+Chance and Chaos;Ruelle, David
+The Meme Machines;Blackmore, Susan
+Deep Future,Baxter Stephen
+Chase the Morning;Rohan, Michael Scott
+A Dictionary of Menmonics;
+The Difference Engine;Gibson, William & Sterling, Bruce
+Chaos;Gleick, James
+Mathematical Circus;Gardner, Martin
+Further Mathematical Diversions;Gardner, Martin
+The Moscow Puzzles;Kordemsky, Boris A,
+Mathematics, Magic, and Mystery;Gardner, Martin
+Blue at the Mizzen;O'Brien, Patrick
+Code Breaker in the Far East;Stripp, Alan
+Asimov's Guide to Science: 1;Asimov, Isaac
+The Elegant Universe;Greene, Brian
+Teach Yourself Java;Wright, Chris
+Carry On, Jeeves;Wodehouse, P. G.
+A Study in Scarlet;Conan Doyle, Sir Arthur
+Animal Farm;Orwell, George
+Fallen Dragon;Hamilton, Peter F.
+On The Art of Writing;Couch, Quiller
+Pompeii;Maiuri, Amedeo
+The Cometeers;Williamson, Jack
+The Three Stigmata of Palmer Eldritch;Dick, Philip K.
+The Quark and the Jaguar;Gell-Mann, Murray
+Mind Boggling Pocket Puzzles;
+Ghastley Beyond Belief;Gaiman, Neil & Newman, Kim
+Mathematics;Soloman, Charles
+Mathematics and Mathematicians 1;Dederon, P. & Itard J.
+The Hammer of the Sun;Rohan, Michael Scott
+Flight to Opar;Farmer,Philip Jose
+
+NBK6 - Books
+The Curse of Lono;Thompson, Hunter S.
+Seacon 79 Progress Reports;
+Unicon 80 Progress Report;
+Introduction to Quantum Field Theory;Mandl, F.
+The Entropy Tango;Moorcock, Michael
+The Book of the Thousand and One Nights;Burton, Sir Richard
+The 2nd Illustrated Sherlock Holmes Omnibus;Conan Doyle, Sir Arthur
+Pompeii and the Buried Cities;
+National Archaeological Museum of Athens;
+The Key to the Universe;Calder, Nigel
+Peanuts Jubilee;Schulz, Charles M.
+The Impending Gleam;Baxter, Glen
+Real Time;Brockman, John & Rosenfeld, Ed
+Hollywood Babylon;Anger, Kenneth
+Hollywood Babylon II;Anger, Kenneth
+Santorini;
+Herakleon Museum;
+The Goodies' Book of Records;
+Fawlty Towers;Cleese, John & Booth, Connie
+Godfrey Daniels;Anobile, Richard J.
+Doc Chaos 1;Elliot, Phil & Gray, Lawrence & Thorpe, Dave
+Doc Chaos 2;Elliot, Phil & Gray, Lawrence & Thorpe, Dave
+The Illustrated Harlan Ellison;Ellison, Harlan
+The Selected Works of Aubrey Beardsley;Beardsley, Aubrey
+Magritte;Magritte
+Francis Bacon;Bacon, Francis
+Egon Schiele;Comini, Alessandra
+Magritte, The True Art of Painting;Torczyner, Harry
+Laplace Transforms;
+Asterix and the Cauldron;Goscinny & Uderzo
+The Mansions of the Gods;Goscinny & Uderzo
+Asterix and the Golden Sickle;Goscinny & Uderzo
+Asterix and the Roman Agent;Goscinny & Uderzo
+
+N23 - Books
+The Knight of Swords; Moorcock, Michael
+The Queen of Swords;Moorcock, Michael
+The King of Swords;Moorcock, Michael
+Conside Phlebas;Banks, Iain M.
+Bartholomew'sTouring Atlas of the British Isles;
+The Eternal Champion;Moorcock, Michael
+Starhunt;Gerrold, David
+Eon;Bear, Greg
+Master Mind of Mars;Burroughs, Edgar Rice
+Rendezvous with Rama;Clarke, Arthur C.
+Ancient Echoes;Holdstock, Robert
+Merlin's Wood;Holdstock, Robert
+Masters of Space;Smith, E. E. 'Doc'
+Mathematics and the Imagination;Kasner, Edward & Newman, James
+Retief: Envoy to New Worlds;Laumer, Keith
+The Space Eater;Langford, David
+The Singer and the Sea;Rohan, Michael Scott
+The Silver Pigs;Davis, Lindsey
+The Ballad of Beta-2 & Empire Star;Delany, Samuel R.
+The Peshawar Lancers;Stirling, S. M.
+Life, the Universe and Everything;Adams, Douglas
+Five Plays;Moliere
+The Little Sister;Chandler, Raymond
+Experimental Researches in Electricity;Faraday, Michael
+The Doors of Perception & Heaven and Hell;Huxley, Aldous
+Sir Gawain and the Green Knight
+Down with Skool;Willans Geoffry & Searle, Ronald
+Antony and Cleopatra;Shakespeare
+Julius Caesar;Shakespeare
+The Comedy of Errors;Shakespeare
+Falstaff;Nye, Robert
+Surely You're Joking, Mr. Feynman
+The Old Straight Track;Watkins, Alfred
+The Emperor's New Mind;Penrose, Roger
+The Chandler Collection: Volume 2;Chandler, Raymond
+The Chandler Collection: Volume 3;Chandler, Raymond
+Kim;Kipling, Rudyard
+Brideshead Revisited;Waugh, Evelyn
+Night of the Jabberwock;Brown, Frederic
+Malleus Maleficarum;Summers, Montague
+Seven Hundred Years of an Oxford College;
+The Glass Teat;Ellison, Harlan
+Sorceress of Darshiva; Eddings, David
+Take Back Plenty;Greenland, Colin
+I'm not Anti-Business, I'm Anti-Idiot;Adams, Scott
+
+NBK9 - Books
+A Universal History of Infamy;Borges, Jorge Luis
+Final Stage;Ferman, Ed L. & Malzberg, Barry N.
+Vitals, Bear, Greg
+Perry Rhodan 2: The Radiant Dome;Scheer, K. H. & Mahr, Kurt
+Perry Rhodan 3: Galactic Alarm;Scheer, K. H. & Mahr, Kurt
+Perry Rhodan 4: Invasion from Space;Scheer, K. H. & Mahr, Kurt
+QED, The Strange Theory of Light and Matter;Feynman, Richard P.
+We All Died at Breakaway Station;Meredith, Richard C.
+The Puffin Book of Nagic;Hunter, Norman
+Star Smashers of the Galaxy Rangers;Harrison, Harry
+Natural History;Robson, Justina
+Jurassic Park;Crichton, Michael
+Excession;Banks, Iain M.
+Galactic Empires 1;Aldiss, Brian
+Space Odysseys;Aldiss, Brian
+Moonseed;Baxter, Stephen
+Genius: Richard Feynman and Modern Physics;Gleick, James
+The Strange Case of Mrs Hudson's Cat;Bruce, Colin
+A General Zoology;Allen, I. M.
+Modern Fantasy: The Hundred Best Novels;Pringle, David
+Who Got Einstein's Office;Regis, Ed
+The Final Programme;Moorcock, Michael
+The Man in the Maze;Silverberg, Robert
+Facts and Fallacies;Morgan, Chris & Langford, David
+Time's Last Gift;Farmer, Philip Jose
+The Naturalist's Handbook;Watson, Geoffrey G.
+The Lives and Times of Jerry Cornelius;Moorcock, Michael
+Wheelers;Cohen, Stewart
+The Practice Effect;Brin, David
+The Ogre Downstairs;Wynne Jones, Diana
+Islands in the Sky;Clarke, Arthur C.
+Secret Water;Ransome, Arthur
+The Giant Under the Snow;Gordon, John
+The WInter of the Birds;Cresswell, Helen
+Johnny and the Bomb;Pratchett, Terry
+The Moon of Gomrath;Garner, Alan
+The Return of Retief;Laumer, Keith
+Retief: Emissary to the Stars;Laumer, Keith
+Retief and the Warlords;Laumer, Keith
+Iluminatus Part I: The Eye in the Pyramid;Shea, Robert & Wilson, Robert Anton
+Iluminatus Part II: The Golden Apple;Shea, Robert & Wilson, Robert Anton
+Iluminatus Part III: Leviathan;Shea, Robert & Wilson, Robert Anton
+Ender's Game;Scott Card, Orson
+Does God Play Dice;Stewart, Ian
+Spineless Wonders;Conniff, Richard
+Basic Electricity;Gibson, W. M.
+Functions of a Complex Variable;Tall, D. O.
+Principles of Dynamics;Glaubert, M. B.
+Solutions of Laplace's Equation;Bland, D. R. 
+Electrical and Mechanical Oscillations;Jones, D. S> 
+Don't Panic: The Official Hitch-Hiker's Guide to the Galaxy Companion;Gaiman, Neil
+How the Universe Got It's Spots;Levin, Janna
+An Introduction to Vector Analysis;Hague, B.
+Low Temperature Phsics;Jackson, L. C.
+
+NBK10 - Books
+Programming Applications for Windows;Richter, Jeffrey
+The Bell System Technical Journal 
+Pure Visual Basic;Fox, Dan
+ATL 3 COM;Grimes, Richard
+Core Visual C++ 6;Klander, Lars
+Java Examples in a Nutshell;Flanagan, David
+Internet Core Protocols;Hall, Eric A.
+Class Construction in C and C++;Sessions, Roger
+Web Programming with ASP and COM;Crouch, Matt J.
+Debugging Applications;Robbins, John
+Reality Rules 1;Casti, John L.
+DNS om Windows NT;Albitz, PAul & Larson, Matt & Liu, Cricket
+DCE/RPC over SMB;Kenneth, Luke & Leighton, Casson
+Learnings Perl on Win32 Systems;Scwartz, Randal L & Olson, Erik & Christiansen, Tom
+Programming C#;Liberty, Jesse
+
+NBK11 - Books
+Aunts Aren't Gentlemen;Wodehouse, P. G.
+Carry On Jeeves;Wodehouse, P. G.
+The Gap Into Ruin: This Day All Gods Die;Donaldson, Stephen
+Engines of God;McDevitt, Jack
+Very Good, Jeeves;Wodehouse, P. G.
+The Shadow of the Torturer;Wolfe, Gene
+Perry Rhodan 1: Enterprise Stardust;Scheer, K. H & Mahr, Kurt
+Gateway;Pohl, Frederick
+Strange Wine;Ellison, Harlan
+Rumpole a la Carte;Mortimer, John
+The Bewitchments of Love and Hate;Constantine, Storm
+Headcrash;Bethke, Bruce
+The Crack in Space;Dick, Philip K.
+Rhialto the Marvellous;Vance, Jack
+The Golden Bough;Frazer, J. G.
+The Planiverse;Dewdney, A. K.
+The Name of the Rose;Eco, Umberto
+Red Queen, White Queen;Treece, Henry
+The Great Captains;Treece, Henry
+The Dark Island;Treece, Henry
+The Golden Strangers; Treece, Henry
+Synaptic Manhunt;Farren, MIck
+This Immortal;Zelazny, Roger
+The Spell of Mathematics;Reichmann, W. J.
+An Engineering Data Book;Munday, A. J. & Farrar, R. A.
+Dilvish the Damned;Zelazny, Roger
+The Island of Doctor Death and Other Stories and Other Stories;Wolfe, Gene
+The Gripping Hand;Niven, Larry & Pournelle, Jerry
+The Book of Ultimate Truths;Rankin, Robert
+The Sword in the Stone;White, T. H.
+Damnation Alley;Zelazny, Roger
+This Other Eden;Elton, Ben
+Voyage to the Red Planet;Bisson, Terry
+The Mote in God's Eye;Niven, Larry & Pournelle, Jerry
+Madwand;Zelazny, Roger
+Explorations of the Marvellous;Nicholls, Peter
+The Sword of the Lictor;Wolfe, Gene
+The Citadel of the Autarch;Wolfe, Gene
+The Rocks of Anglesey;
+Catastrophe Theory;Woodcock, Alexander & Davis, Monte
+Titan;Varley, John
+The Book of Lists;Wallechinsky, David
+Lateral Thinking;de Bono, Edward
+The Mechanism of Mind;de Bono, Edward
+Po: Beyond Yes and No;de Bone, Edward
+Po: Beyond Yes and No;de Bone, Edward
+Tree and Leaf, Smith of Wootton Major, The Homecoming of Beorhtnoth; Tolkein, J. R. R.
+The Character of Physical Law;Feynmen, Richard
+The Crying of Lot 49;Pynchon, Thomas
+The Great Shark Hubt;Thompson, Hunter S.
+The Lone Groover's Little Read Book;Benyon, Tony
+On Broadway;Runyon Damon
+Life at Blandings;Wodehouse, P. G.
+
+NBK12 - Books
+Distress;Egan, Greg
+Penumbra;Brown, Eric
+Lifemanship;Potter, Stephen
+The Ancient World;Blunt, A. W. F.
+Other Men's Flowers;Wavell, A. P.
+The Spanish Tragedy;Kyd, Thomas
+Doctor Faustus;Marlowe, Christopher
+The First Book of Wraethu: The Enchantments of Flesh and Spirit;Constantine, Storm
+The Vanishing Hithhiker;Brunvand, Jan Harold
+The Best of Myles;O'Brien, Flann
+Life During Wartime;Shepard, Lucius
+The Third Book of Wraethu: The Fulfilments of Fate and Desire;Constantine, Storm
+Unreliable Memoirs;James, Clive
+Teach Yourself Trigonometry;Abbott, P.
+Deathstalker War;Green, Simon R.
+Neveryone;Delany, Samuel R.
+Brightness Reef;Brin, David
+Maxie's Demon;Rohan, Michael Scott
+A Midsummer Night's Dream;Shakespeare, William
+Virtual Light;Gibson, William
+Forever Undecided;Smullyan, Raymond
+Hyperion;Simmons, Dan
+Mona Lisa Overdrive;Gibson, William
+The Day of Creation;Ballard, J. G.
+Bill the Galactic Hero on the Planet of Robot Slaves; Harrison, Harry
+The Cosmic Connection;Sagan, Carl
+Mr Tompkins in Paperback;Gamow, George
+Rules for Compositors & Readers at the University Press, Oxford;
+Count Zero;Gibson, William
+Teach Yourself Calculus;Abbott, P.
+Tales of Neveryon;Delany, Samual R.
+Northlight;Hall, Adam
+Farewell Horizontal;Jeter, K. W.
+Journey to the Centre of the Earth;Verne, Jules
+The Ninja;Van Lustbader, Eric
+The Weerde Book 1; Gaiman, Neil & Gentle, Mary & Kaveny, Roz
+Roget's Thesaurus;
+Stark;Elton, Ben
+The Voyage of the Space Beagle;van Vogt, A. E. 
+The Forever War;Haldeman, Joe
+Sleeping in Flame;Carroll, Jonathan
+Odds and Gods;Holt, Tom
+The Gap into Madness: Chaos and Order;Donaldson, Stephen
+The Most Amazing Man Who Ever Lived;Rankin, Robert
+Birds, Beasts and Relatives;Durrell, Gerald
+The Quiller Memorandum;Hall, Adam
+The Tango Briefing;Hall, Adam
+The Lady in the Lake;Chandler, Raymond
+Esprit de Corps;Durrell, Lawrence
+
+NBK13 - Books
+Truckers;Pratchett, Terry
+Diggers;Pratchett, Terry
+Wings;Pratchett, Terry
+The Night <ayor;Newman, Kim
+Flus;Baxter, Stephen
+Faust/Eric;Pratchett, Terry
+Sourcery;Pratchett, Terry
+The Broken God;Zindell, David
+Reaper Man;Pratchett, Terry
+Secret Harmonies;McAuley, Paul J,
+Mr. Midshipman Hornblower;Forester, C. S.
+Complicity;Banks, Iain
+Hornblower and the Atropos;Forester, C. S.
+Flying Colours;Forester, C. S.
+Runpole's Last Case;Mortimer, John
+Desolation Road;McDonald, Ian
+Life at Blandings;Wodehouse, P. G.
+Hornblower During the Crisis;Forester, C. S.
+Admiral Hornblower in the West Indies;Forester, C. S.
+I, Claudius;Graves, Robert
+Hornblower and the Hotspur;Forester, C. S.
+Lieutenant Hornblower;Forester, C. S.
+Small Gods;Pratchett, Terry
+The Lost World;Conan Doyle, Sir Arthur
+Galactic Patrol;Smith, E. E. "Doc"
+First Lensman;Smith, E. E. "Doc"
+The Light Fantastic;Pratchett, Terry
+The Colour of Magic;Pratchett, Terry
+Equal Rites;Pratchett, Terry
+Pyramids;Pratchett, Terry
+Violent Cases;Gaiman, Neil
+Judge Caligula;Wagner, John
+Batman & Dracula;Moench, Doug
+Blood Music;Bear, Greg
+The Sleeper in the Sands;Holland, Tom
+The Decline and fall of the Roman Empire;Gibbon, Edward
+The Anubis Gates;Powers, Tim
+Galactic Patrol;Smith, E. E. "Doc"
+The Ophiuchi Hotline;Varley, John
+Secret Water;Ransome, Arthur
+The Mote in God's Eye;Niven, Larry & Pournelle, Jerry
+Burning Chrome;Gibson, William
+Pawn of Prophecy;Eddings, David
+Rommel? Gunner Who?;Milligan, Spike
+
+NBK15 - Books
+House of Hell;Jackson, Steve
+Merlin;Nye, Robert
+Assassin's Apprentice;Hobb, Robin
+A Dream of Wessex;Priest, Christopher
+Moonwreck;Cooper, Henry S. F
+Grunts;Gentle, Mary
+Physics in Medical Ultrasound;Evans,J. A. 
+Valis;Dick, Philip K.
+Dunner at the Deviant's Place;Powers, Tim
+The Other Log of Phileas Fogg;Farmer, Philip Jose
+Best SF Stories from New Worlds 4;Moorcock, Michael
+Never Give a Sucker an Even Break;Fisher, John
+Fust Among Equals;Holt, Tom
+Quantum Mechanics;Schiff, Leonard I.
+The State of the Art;Banks, Iain M.
+Makers of Mathematics;Hollingdale, Stuart
+The Newtonian Casino;Bass, Thomas A.
+The White Goddess;Graves, Robert
+When We Were Very Young;Milne, A. A.
+River Out Of Eden;Dawkins, Richard
+The Wizards of Odd;Haining, Peter
+The Cassini Division;Macleod, Ken
+The Sky Road;Macleod, Ken
+Look to Windward;Banks, Iain M.
+Fairyland;McAuley, Paul J.
+The Trials of Life;Attenborough, David
+Life in the Freezer;Fothergill, Alastair
+Turner's Rivers, Harbours and Coasts;Shanes, Eric
+Turner Abroad;Wilton, Andrew
+From So Simple a Beginning, The Book of Evolution;Whitfield, Philip
+
+NBK16 - Books
+Winespeak;Searle, Ronald
+The Giant Under the Snow;Gordon, John
+The Making of Kubrik's 2001;Agel, Jerome
+Again Dangerous Visions, Book 1;Ellison, Harlan
+Money;Amis, Martin
+The Mandarin Cypher;Hall, Adam
+The Observer's Book of Geology;Evans, I. O.
+A Scanner Darkly;Dick, Philip K.
+The Minipins;Kendall, Carol
+The Black Cloud;Hoyle, Fred
+Approaching Oblivion;Ellison, Harlan
+The Best of Harry Harrison;Harrison, Harry
+Dune Messiah;Herbert, Frank
+Hell's Cartographers;Aldiss, Brian W. & Harrison, Harry
+The Future of Life;Wilson, Edward O.
+Longitude;Sobel, Dava
+The Patterns of Chaos;Kapp, Colin
+The Protable Door;Holt, Tom
+Pears Cyclopedia 1961-1962
+The Complete Aquarium;Vogt, D
+DNA The Secret of Life;Watson, James
+Arther's Britain;Alcock, Leslie
+The Prehistory of the Mind;Mithen, Steven
+Dissolution;Sansom, C. J.
+Pigeon Post;Ransome, Arthur
+The Unteleported Man;Dick, Philip K.
+The Stainless Steel Rat's Revenge;Harrison, Harry
+The Stainless Steel Rat for President;Harrison, Harry
+Bottersnikes and Gumbles;Wakefield, S. A.
+Elric of Melnibone;Moorcock, Michael
+Deathbird Stories;Ellison, Harlan
+Partners in Wonder;Ellison, Harlan
+Bill, The Galactic Hero;Harrison, Harry
+Our Friends from Frolix 8;Dick, Philip K.
+The Centauri Device;Harrison, M. John
+Stonehenge;Stover, Leon & Harrison, Harry
+War With the Robots;Harrison, Harry
+The Time of the Eye;Ellison, Harlan
+The Transmigration of Timothy Archer;Dick, Philip K.
+Master of the Five Magics;Hardy, Lyndon
+Ubik;Dick, Philip K.
+The Beast That Shouted Love at the Heart of the World;Ellison, HArlan
+Again Dangerous Visions, Book 2;Ellison, Harlan
+Phsics for Princes
+Chemistry 3: Atoms, Elements and Molecules
+The Year's Best Science Fiction No. 7;Harrison, Harry & Aldiss, Brian
+The Year's Best Science Fiction No. 8;Harrison, Harry & Aldiss, Brian
+Eye Among the Blind;Holdstock, RObert
+Children of Dune;Herbert, FRank
+The Stainless Steel Rat Wants You;Harrison, Harry
+The MAchine in Shaft Ten;Harrison, M. John
+The Neural Atrocity;Farren, MIck
+A MAze of Death;Dick, Philp K.
+The Stealer of Souls;Moorcock, Michael
+The Quest of the DNA Cowboys;Farren, MIck
+Mythago Wood;Holdstock, Robert
+October the First is Too Late;Hoyle, Fred
+Icerigger;Foster, Alan Dean
+God Emperor of Dune;Herbert, FRank
+Time Enough for Love;Heinlein, Robert
+
+NBK17 - Books
+The Encyclopedia of Science fiction;Clute,John & Nicholls, Peter
+Conqueror's Pride;Zahn, Timothy
+Asimov's Biographical Encyclopedia of Science and Technology;Asimov, Isaac
+The Sundering;Williams, Walter Jon
+Coming of Age in the Milky Way;Ferris, Timothy
+Station X;Smaith, Michael
+Hut Six;Welchman, Gordon
+The Stainless Steel Rat Saves the World;Harrison, Harry
+Pocket Oxford Dictionary
+The World Treasury of Physics, Astronomy and Mathematics;Ferris, Timothy
+The Leaky Establishment;Langford, David
+Differential Equations;Piaggio, H. T. H.
+Classical Mechanics;Goldstein, Herbert
+Labyrinths;Borges, Jorge Luis
+Earth;Brim, David
+The GAp into Vision: Forbidden Knowledge;Donaldson, Stephen
+The New Space Opera;Dozios, Gardener & Strahan, Jonathan
+Cryptonomicon;Stephenson, Neal
+Borderlands of Science;Sheffield, Charles
+Lavondyss;Holdstock, Robert
+Dirk Gently's Holistic Detective Agency;Adams, Douglas
+A Storm of Wings;Harrison, M. John
+The Martian Inca;Watson, Ian
+City of Illusions;LeGuin, Ursula K.
+Darwin's Radio;Bear, Greg
+The Anvil of Ice;Rohan, MIchael Scott
+Birds, Beasts and Relatives;Durrell, Gerald
+Dalek I Loved You;Griffiths, Nick
+
+LBK2 - Books
+The Culture of Narcissism;Lasch, Christopher
+The Renaissance;Pater, Walter
+Elective Affinities;Goethe
+Philosophy in the Tragic Age of the Greeks;Nietzsche
+Lying;Bok, Sissela
+All the Livlong Day;Garson, Barbara
+Confessions;Augustine
+Confessions of Felix Krull;Mann, Thomas
+News from Nowhere;Epstein, Edward Jay
+Moll Flanders;Defoe, Daniel
+The Picture of Dorian Gray;Wilde, Oscar
+Slow Birds;Watson, Ian
+Being and Nothingness;Sartre, Jean-Paul
+The Symposium;Plato
+Black Elk Speaks;Neihardt, John G.
+Porterhouse Blue;Sharpe, Tom
+Fathers and Sons;Turgenev, Ivan S.
+Tristan and Isolde;Wagner, Richard
+The Oresteia;Aeschylus
+A Hero of our Time;Lermontov, Mihail
+Doctore Fischer of Geneva or The Bomb Party;Greene, Graham
+The Millstone;Drabble, Margaret
+Against Our Will;Brownmiller, Susan
+Love in a Cold Climate;Mitford, Nancy
+Invitation to Sociology: A Humanistic Perspective;Berger, Peter L.
+Ecstatic Religion; Lewis, I. M.
+The Way to Rainy Mountain;Momaday, N. Scott
+Oblomov;Goncharov
+The Sacred Canopy;Berger, Peter L.
+Tell Me a Riddle;Olsen, Tillie
+Two Spanish Picaresque Novels
+On The Nature of the Universe;Lucretius
+Psychoanalysis and Feminism;Mitchell, Juliet
+The Private Memoirs and Confessions of a Justified Sinner;Hogg, James
+Vindication of the Rights of Woman;Wollstomecraft, Mary
+Laura;Norman, Hilary
+The Witch Family;Estes, Eleanor
+The Power of Positive Thinking;Peale, Norman Vincent
+Tristan;Gottfried von Strassburg
+Song of Soloman;Morrison, Toni
+Robinson Crusoe;Defoe, Daniel
+Medieval Romances
+The Philosophy of Aristotle;Bambrough, Renford
+Leviathan;Hobbes, Thomas
+Aristotle for Everybody;Adler, Mortimer J.
+The Last Days of Socrates;PLato
+Ragged Dick & Mark, The Match Boy;Alger, Horatio
+Death on the Installment Plan;Celine
+Leaves of Grass;Whitman, Walt
+Critical Practice;Belsey, Catherine
+Poverty and Progress;Thernstrom, Stephan
+A Bend in the River;Naipaul, V. S. 
+Freud 14: Art and Literature;Freud, Sigmund
+Pornography;Dworkin, Andrea
+Memoirs of a Midget;De la Mere, Walter
+
+LBK3 - Books
+Breads
+100 Best Chicken Recipes
+The No Meat Cookbook
+The Classic Italian Cookbook;Hazan, Marcella
+More Classic Italian Cooking;Hazan, Marcella
+The Silver Palate Cookbook
+The Silver Palate Good Times Cookbook
+New Book of Great Desserts
+Contemporary Home Cooking
+Children: How to Understand Their Symptoms
+Fun with Fruit and Vegetables
+Today's Italian Touch from Progresso
+Cook's Illustrated 1994
+The New James Beard
+American Family Menu Planner
+Solve Your Child's Sleep Problems
+Your Baby and Child
+The New English Cookery
+The Father's Almanac
+McCall's Cooking School
+
+LBK4 - Books
+The Twice Born;CArstairs, G. Morris
+Plato II;Vlastos, Gregory
+Plato I;Vlastos, Gregory
+Freud;Wollheim, Richard
+Erasmus and the Age of Reformations;Huizinga, Johan
+Origins of the State and Civilization;Service, Elman R.
+Ideals and Realities of Islam;Nasr, Seyyed Hossein
+New York Times Corssword Puzzle Dictionary
+Popular Fictions;Humm, Peter & Stigant, Paul & Widdowson, Peter
+As I Lay Dying;Faulkner, William
+The Overcoat;Gogol, Nicolai V.
+The Rastafarians;Barrett, Leonard
+Jagger Unautorized;Andersen, Christopher
+Four Seasons Cookery Book;Costa, Margaret
+Wuthering Heights;Bronte, Emily
+Lens 1977
+Rome of the Caesars
+Even Cowgirls Get The Blues;Robbins, Tom
+Cry, the Beloved Country;Paton, Alan
+Italian Regional Cooking;Boni, Ada
+
+NBK21 - Books
+Sin City;Miller, Frank
+Quarantine;Egan, Greg
+Red Dust;McAuley, Paul J.
+Wizard;Varley, John
+The Antipope;Rankin, Robert
+The Riddle of the Third Mile;Dexter, Colin
+The Shockwave Rider;Brunner, John
+Eternal Light;McAuley, Paul J.
+The Fall of Hyperion;Simmons, Dan
+Puzzles from Other Worlds;Gardner, Martin
+The Very Worst of Confessions;Mayo, Simon
+The Long Dark Tea-time of the Soul;Adams, Douglas
+C Quick Reference
+Microsoft Windows 3.1
+A Mathematician's Apology;Hardy, G. H.
+Celestial Navigation;Toghill, Jeff
+Songs of a Dead Dreamer;Ligotti, Thomas
+Matter and Motion;Maxwell, James Clerk
+The Once and Future King;White, T. H.
+The Official Guide to Bionocle
+Bubbles, Voids and Bumps: The New Cosmology;Cornell, James
+The Complete Book of Chess;Horowitz & Rithenberg
+Temps;Gaiman, Neil & Stewart, Alex
+
+LBK5 - Books
+A Career Guid for PhDs and PhD Candidates
+Greek Lyrics;Lattimore, Richmond
+Rameau's Nephew;Diderot
+Women in the Middle Ages;Gies, Frances & Gies, Joseph
+Miami;Booth, Pat
+Treasure Island;Stevenson, Robert Louis
+The Transsexual Empire;Raymond, Janice G.
+Shopping for a Better World;
+The Rise of the Novel;Watt, Ian
+The Myth of Sisyphus;Camus, Albert
+Oldest Living Confederate Widow Tells All;Gurganus, Allan
+
+NBK22 - Books
+Rapid Development;McConnell, Steve
+Teach Yourself Active Server Pages in 24 Hours;Wille & Koller
+Teach Yourself C++ in 24 Hours;Liberty
+Teach Yourself Game Programming in 24 Hours;Morrison
+Teach Yourself Game Programming with Visual Basic in 21 Days;Walnum
+Game Architecture and Design;Rollings & Morris
+Advanced 3-D Game Programming;Perez
+The Art of C;Schildt
+The Craft of C;Schildt
+Power Graphics using Turbo C++;Heiny
+ATL 3 COM;Grimes
+Debugging Secure Web-Based Applications for Windows 2000
+
+NBK23 - Books
+Windows Game Programming for Dummies;LaMothe, Andre
+The Dilbert Principle;Adams, Scott
+Intrusion Signatures and Analysis;Northcutt, Stephen
+Dilbert Future;Adams. Scott
+Votage of the Beagle;Darwin, Charles
+The Age of Wonder;Holmes, Richard
+The Iliad;Homer
+Uner the Sea-Wind;Carson, Rachel
+Immediate Action;McNab, Andy
+The Natural History of Selborne;White, Gilbert
+She and Allan;Haggard, H. Rider
+She;Haggard, H. Rider
+Optics;Hecht & Zajac
+I Am America (and So Can You);Colbert, Stephen
+Black and WHite Strategy Guide
+Generation X;Coupland, Douglas
+Iron Council;Mieville, China
+Life on Planet Rock;Friend, Lonn
+Thunderball;Fleming, Ian
+Dry Storeroom No. 1:Fortey, Richard
+Body of Secrets;Bamford, James
+Triplanetary;Smith, E. E. (Doc)
+Trilobite;Fortey, Richard
+Disturbing the Universe;Dyson, Freeman
+The God Delusion;Dawkins, Richard
+Black Hawk Down;Bowden, Mark
+The Audubon Society Field Guide to North American Insects and Spiders
+The Audubon Society Field Guide to North American Weather
+The Audubon Society Field Guide to North American Birds
+Collins Complete British Wildlife
+
+NBK24 - Books
+The Guns of Avalon;Zelazny, Roger
+The Moon of Gomrath;Garner, Alan
+Dangerous Visions 2;Ellison, Harlan
+Life with Jeeves;Wodehouse, P. G. 
+The Science of Diskword;Pratchett, Terry & Stewart, Ian
+The Science of Diskword II;Pratchett, Terry & Stewart, Ian
+The Science of Diskword III;Pratchett, Terry & Stewart, Ian
+The Algebraist;Banks, Iain M.
+Prode and Prejudice and Zombies;Grahame-Smith, Seth
+Brewer's Dictionary
+Colossus;Feruson, Niall
+Kitchen Confidential;Bourdain, Anthony
+Improve Your Digestion
+The Dalek Generation;Briggs, Nicholas
+The Dragon Never Sleeps;Cook, Glen
+The Industrial Revolution Explained;Yorke, Stan
+Dread Empire's Fall;Williams, Walter Jon
+
+NBK25 - Books
+Time Team ReportsThe Ultimate Guide to Fantasy;SFX
+HMS Belfast
+HMS Victory
+The Hawkwind Log
+Aquarium Guide Book
+Britain at War
+Hack Attacks Revealed;Chirillo
+A Practical Introduction to Electronic Circuits;Jones
+The Hitchhiker's Guide to the Galaxy;Adams, Douglas
+Teach Yourself Ecology
+Teach Yourself How to Study
+ATL COM Programmer's Reference;Grimes
+Personal Software Process;Humphrey
+VT220 Pocket Guide
+EDT Quick Reference
+VAX-11 Programming Card
+DECnet-RSX
+Oracle Programming with Visual Basic;Snowdon, Nick
+PHP3 Programming;Medinets, David
+The Pauli Lectures on Physics
+Inside the Minoan Palace
+Simple Quantum Physics;Lanshoff & Metherell
+Calvin and Hobbes: The Revenge of the Baby-Sat;Watterson, Bill
+The Dalek Book
+Advance D&D Player's Handbook
+Advancded D&D Dungeon Master's Guide
+Dungeons & Dragons
+Call of Cthulhu: The Statue of the Sorcerer
+Call of Cthulhu: Green and Pleasant Land
+
+NBK26 - Books
+Dreaming Spires Accounts
+The Dark Queen of Krynn: Rule Book
+The Dark Queen of Krynn: Adventurer's Journal
+Popular Science Almanac
+The Homeward Bounders;Wynne Jones, Diana
+A Mad Medley of Milligan;Milligan, Spike
+Two for the Lions;Davis, Lindsey
+Last Act in Palmyra;Davis, Lindsey
+Three Hands in the Fountain;Davis, Lindsey
+Venus in Copper;Davis, Lindsey
+Two for the Lions;Davis, Lindsey
+The Giant All-Colour Dictionary
+Dad Sketch Books
+
+NBK27 - Books
+Cerebus;Sim, Dave
+Light;Harrison, M. John
+The Visual Display of Quantitative Information;Tufte, Edward R.
+A Career Guide of PhDs and Phd Candidates;Showalter, English
+The C++ Programmer's Handbook;Lucas, Paul J.
+The Klutz Book of Magic;Cassidy, John & Stroud, Michael
+Trillion Year Spree;Aldiss, Brian W.
+Out on Blue Six;McDonald, Ian
+The Complete Yes Prime Minister;Lynn, Jonathan & Jay, Antony
+The Complete Yes Minister;Lynn, Jonathan & Jay, Antony
+Dictionary of Eponymous Fictions;Yahoo, Abigail
+Nightside of the Long Sun;Wolfe, Gene
+The Design of Everyday Things;Norman, Donald A.
+A Handbook for Adjunct and Part-Time Faculty
+A Method of Programming;Dijkstra, Edsger W.
+Galileo Science and the Church;Langford, Jerome J.
+Seasons of Plenty;Greenland, Colin
+The Annals of Imperial Rome; Tacitus
+Undocumented Windows;Schulman, Andrew
+Neuromancer;Gibson, William
+The Joy of Mathematics;Pappas, Theoni
+
+NBK28 - Books
+Birdfeeder Handbook;Burton, Robert
+Downs-Lord Doomsday;Whitbourn, John
+Minerals and Rocks;Kirkaldy, J. F.
+The Sciences Good Study Guide
+Essential COM
+Effective COM
+ATL Essentials
+Programming Windows Security;Brown
+Tropical Fishkeeping;Bailey, Mary
+Water Garden Workbook;Dimmock, Charlie
+
+Comics 2
+Tomb Raider Comics
+2000AD
+
+K3 - Alex Primary School
+
+LBK7 - Books
+The Science Fiction of Edgar Allan Poe;Poe, Edgar Allan
+The Kitchen God's Wife;Tan, Amy
+The Second Sex;de Beauvoir, Simone
+Dracula;Stoker, Bram
+Reception Theory;Holub, Robert C.
+Doctor Faustus;Marlowe, Christopher
+Zastrozzi & ST. Irvine;Shelle, Percy Bysshe
+Madness & Civilization;Foucault, Michel
+On Compiling an Annotated Bibliography;Harner, James L.
+Biographia Literaria;Coleridge, Samuel Taylor
+Crash;Ballard, J. G.
+Working;Terkel, Studs
+Billy Budd;Melville, Herman
+Lord of the Flies;Golding, William
+Roderick Random;Smollett, Tobias
+Tell Me a Riddle;Olsen, Tillie
+The Tempest;Shakespeare, William
+Tristan and Iseult;Belloc, Hilaire
+Theogony;Hesiod
+Letters, Principal Doctrines and Vatican Sayings;Epicurus
+Surfacing;Atwood, Margaret
+We, Zamiatin, Eugene
+The Woff;Strong, Jeremy
+The Elements of Style;Strunk, William & White, E. B.
+Unnatural Death;Sayers, Dorothy L.
+Looking for Mr. Goodbar;Rossner, Judith
+Grendel;Gardner, John
+Things Fall Apart;Achebe, Chinua
+Man's Fate;Malraux, Andre
+The School of Manners;
+Eros and Civilization;Marcuse, Herbert
+Embraced by The Light;Eadie, Betty J.
+Sex and Subterfuge: Women Writers to 1850;Figes, Eva
+Walden & Civil Disobedience;Thoreau, Henry David
+Eve's Revenge;Starr, Tama
+Shopping Ladies;Rouseau, Ann Marie
+Madonna Unauthorized;Andersen, Christopher
+
+Bank Statements
+Diary 1993
+
+NBK29 - Books
+A First Course in Computational Physics;DeVries, Paul L.
+Simple Physics Experiments with Everyday Materials;Breckenridge, Judy
+Brain Building Games;Bragdon, Allen
+Mechanics and Motion;Mackinnon, L.
+Expatria;Brooke, Keith
+Keepers of the Peace;Brooke, Keith
+The Art of Defense in Chess;Soltis, Andrew
+A Wind in the Door;L'Engle, Madeleine
+A Swiftly Tilting Planet;L'Engle, Madeleine
+The Knight and Knave of Swords;Leiber, Fritz
+Smalltalk-80;Mevel, A. & Gueguen, T.
+The Problems of Mathemativs;Stewart, Ian
+A Fall of Moondust;Clarke, Arthur C.
+Queen of Angels;Bear, Greg
+A Game of Thrones;Martin, George R. R.
+The King of the Hill;McAuley, Paul J.
+So LOng and Thanks for All the Fish;Adams, Douglas
+Chess in a Nutshell;Reinfeld, Fred
+The Riddling Reaver;Jackson, Steve
+The Rings of Kether;Jackson, Steve & Livingstone, Ian
+The Light Fantastic;Pratchett, Terry
+Bad Dreams;Newman, Kim
+The Penguin Dictionary of Physics;Illingworth, Valerie
+The Arts of the Sailor;Smith, Hervey Garrett
+A Structured Programming Appraoch to Data;Coleman, Derek
+Aha!;Gardner, Martin
+DOS: Programmer's Reference
+The Architecture of Desire;Gentle, Mary
+The Watchers Out of Time;Lovecraft, H. P.
+The Chantry Guild;Dickson, Gordon R.
+Richard III;Shakespeare, William
+
+NBK30 - Books
+Anvil of Stars;Bear, Greg
+Dead Babies;Amis, Martin
+Ye Gods;Holt, Tom
+The Restaurant at the End of the Universe;Adams, Douglas
+The Thin Man;Hammett, Dashiell
+Clans of the Alphane Moon;Dick, Philip K.
+Mission to Moulokin;Foster, Alan Dean
+The Urth of the New Sun;Wolfe, Gene
+Pradox;Meany, John
+The Woman in White;Collins, Wilkie
+Wyrms;Card, Orson Scott
+The Best of Sci-Fi 5:Merril, Judith
+Sojan;Moorcock, Michael
+The Exploits of Brigadier Gerard;Doyle, Arthur Conan
+Elements of Electricity and Magnetism;Thomson, J. J.
+The Screwtape Letters;Lewis, C. S> 
+The Wanderer;Leiber, Fritz
+The Savoy Book;Britton, David & Butterworth, Michael
+The Gas;Platt, Charles
+The Golden Barge;Moorcock, Michael
+The Colin Macinnes Omnibus;Macinnes, COlin
+A Hundred Years of Chemistry;Findlay, Alexander
+My Experiences in the Third World WAr;Moorcock, Michael
+Growing Points in Science;HMSO
+The Black Corrider;Moorcock, Michael
+The Merry Wives of Windsor;Shakespreare, William
+A Midsummer Night's Dream;Shakespeare, William
+Variational Principles in Dynamics and Quantum Theory;Yourgrau, Wolfgang & Mandelstam, Stanley
+The Principles of Quantum MEchanics;Dirac, P. A. M. 
+Mathematical Physics;Menzel, Donald H.
+Lie Groups for Pedestrians;Lipkin, Harry
+The EMpire of Fear;Stableford, Brian
+Surprises in Theoretical Physics;Peierls, Rudolf
+Demon Lord of Karanda;Eddings, David
+Principles of Computer Aided Design;Rooney, Joe & Steadman, Philip
+
+Snail
+80-81 Diary
+
+
+NBK31 - Books
+Concrete Island;Ballard, J. G.
+Dr Who and the Abominable Snowmen;Dicks, Terrance
+The Dark is Rising;Cooper, Susan
+The Grey King;Cooper, Susan
+Greenwitch;Cooper, Susan
+Silver on the Tree;Cooper, Susan
+The Prestige;Priest, Christopher
+Sneaky Uses for Everyday Things;Tymony, Cy
+Engineering Infinity;Strahan, Jonathan
+How to Become Ridiculously Well-Read in One Evening;Parrott, E. O. 
+Quantum Theory: A Very Short Introduction;Polkinghorne, John
+Cryptography: A Very Short Introduction;Piper, Fred & Murphy, Sean
+Have I Got News for You Guide to Modern Britain;Martin, Nick
+The Ancient Mariner and the Authentic Narrative;Martin, Bernard
+Protector;Niven, Larry
+The Bloody Red Baron;Newman, Kim
+The Courts of Chaos;Zelazny, Roger
+Halcyon Drift;Stableford, Brian
+Skylark of Valeron;Smith, E. E. "Doc"
+The Stainless Steel Rat;Harrison, Harry
+The History of the Runestaff;Moorcock, Michael
+Exultant;Baxter, Stephen
+Celtica;Holdstock, Robert
+A Forest of Stars;Anderson, Kevin J.
+Anti-Ics;Baxter, Stephen
+The Hand of Oberon;Zelazny, Roger
+Foundation;Asimov, Isaac
+Allan Quartermain;Haggard, H. Rider
+The Atrocity Exhibition;Ballard, J. G.
+Ring;Baxter, Stephen
+The Episode Guide to the Galaxy;SFX
+The Second SFX Episode Guide to the Galaxy;SFX
+The Unofficial SFX Episode Guide to Deep Space Nine;SFX
+Puppets, Playboys & Prisoners;SFX
+Keeping Your PC Virus Free;PC Plus
+The Age of Zeus;Lovegrove, James
+The Quantum Thief;Rajaniemi, Hannu
+Mythago Wood;Holdstock, Robert
+Journey to the Centre;Stableford, Brian
+The War Lord of the Air;Moorcock, Michael
+The Steel Tsar;Moorcock, Michael
+Second Stage Lensman;Smith, E. E. "Doc"
+Subspace Explorers;Smith, E. E. "Doc"
+Skylark DuQuesne;Smith, E. E, "Doc"
+The Skylark of Space;Smith, E. E. "Doc"
+The Ancient Greeks;Finley, M. I.
+The Alexandria Link;Berry, Steve
+New Scientists's Guide to the Quantum World;Lindley, David
+The Discworld Mapp;Pratchett, Terry & Briggs, Stephen
+Handbook of Country Crafts;AA
+The Desktop Video Guide
+The New Scientist Book of The Last Word
+Prode and Prejudice and Zombies;Austen, Jane & Grahame-Smith, Seth
+Knocking on Heaven's Door;Randall, Lisa
+
+NC1 - Computers
+
+LBK8 - Books
+Them;Oates, Joyce, Carol
+Postmodern Culture;Foster, Hal
+Memoirs of a Geisha;Golden, Athur
+Rocking Around the Clock;Kaplan, E. Ann
+Survival Kit for Overseas Living;Kohls, L. Robert
+Shelley's Poetry and Prose;Reiman, Donald, H. & Powers, Sharon B.
+I Know Why The Caged Bird Sings;Angelou, Maya
+The Devil's Dictionary;Bierce, Ambrose
+The Lancashire Witches
+Madonnarama;Frank, Lisa & Smith, Paul
+Taoism: The Road to Immortality;Blofeld, John
+Terum Ghosts and Kin;Hicks, David
+Endgame;Beckett, Samuel
+Revolutionary Petunias & Other Poems;Walker, Alice
+Midnight's Children;Rushdie, Salman
+Shopping in Ocford: A Brief History
+Fatal Vision;McGuinniss, Joe
+Jane Eyre;Bronte, Charlotte
+A Research Guide for Undergraduate Students 2nd Ed.;Baker, Nancy L.
+A Research Guide for Undergraduate Students 3rd Ed.;Baker, Nancy L.
+The Healthy Soup Cookbook
+Separatism and Power;Frye, Marilyn
+A New Introduction to Greek;Chase, Alston Hurd & Phillips, Henry Jr.
+
+NBK32 - Books
+TCP/IP Tutorial and Technical Overview;IBM
+Essential WinInet;Skonnard
+Borland C++ Builder 5;Borland
+SQL Server 2000 Administration;Linsenbardt & Stigler
+C++ Builder 5 Developer's Guide;Borland
+Windows NT TCP/IP;Siyan
+Windows Network Programming
+Programming Server-Side Applications for Windows 2000
+Transact-SQL Programming;Kline & Gould & Zanevsky
+Witches Abroad;Pratchett, Terry
+Philip's Atlas of World History;O'Brien, Patrick K.
+
+K4 - Toys & Books
+
+NBK33 - Books
+Above the World
+The Encyclopedia of Mythology
+Philip's World Atlas
+Baudolino;Eco, Umberto
+Virtual Organisms;Ward, Mark
+68000 Assembly Language Programming;Kane & Hawkins & Leventhal
+The Collapse of Chaos;Stewart, Ian & Cohen, Jack
+From Here to Infinity;Stewart, Ian
+Rhe Action Hero's Handbook;
+Can Reindeer Fly?;Highfield, Roger
+The Flying Circus of Physics;Walker, Jearl
+The Fantastic World of Optical Illusions
+
+Old Address Books
+Bar Skittles
+
+K5 - Meccano
+
+K6 - Alex Books & PC Games
+PC Gamer & Retro Gamer
+Storm Hawks DVD
+Ground Control: Operation Exodus
+Command & Conquer: Red Alert
+Delta Force
+Delta Force 2
+War Chess
+Lego Creator
+Command & Conquer: Tiberian Sun
+
+Calculus Early Transcendentals;Edwards & Penney
+Jedi Apprentixe: The Shattered Peace;Watson, Jude
+Paperweight;Fry, Stephen
+Inquisitor;Watson, Ian
+Starfist: First to Fight;Sherman, David & Cragg, Dan
+Starfist: School of Fire;Sherman, David & Cragg, Dan
+Complete Verse;Kipling, Rudyard
+Moonraker;Fleming, Ian
+The Hitchhiker's Guide to the Galaxy;Adams, Douglas
+Mostly Harmless;Adams, Douglas
+
+NF15 - Stuff
+Slide Rule
+KES Mug
+KES Photos
+Magic Penny Magnet
+Camel Box
+Shelley Road Carpet
+Puzzles
+Change
+Filofax
+Inlaid ruler
+Magnifying Glass
+Universal Calendar
+Card scores
+Meccano motor
+ED Robot
+Shark puzzle
+Writing case
+Voltmeter
+Foam rings for blaster
+Drawing tools
+Marble egg
+Photos
+
+LBK9 - Books
+Index cards
+
+The Beach;Graland, Alex
+How Mumbo-Jumbo Conquered the World;Wheen, Francis
+Rethinking the Future;Gibson, Rowan
+Atonement;McEwan, Ian
+House of Sand and Fog;Dubus III, Andre
+Kitchen Confidential;Bourdain, Anthony
+Picture Perfect Weight Loss;Shapiro, Dr. Howard M.
+Uh! Oh! Hannukah;Channen, Don
+Sleep Toward Heaven;Ward, Amanda Eyre
+Attorny General's Commission on Pornography (Meese Report)
+When Bad Things Happen to Good People;Kushner, Harold S.
+Whatever Love Means;Baddiel, David
+Your Money or Your Life;Hall, Alvin
+Sickened; Gregory, Julie
+
+NBK32 - Books
+Passing Time in the Loo
+The Book of the Dead;Preston, Douglas & CHild, Lincoln
+Possible Worlds;Haldane, J. B. S
+Someone Comes to Towm, Someone Leaves Town;Doctrow, Cory
+Stardust;Gribbin, John
+Churchill & Secret Service;Stafford, Dvid
+White Mughals;Dalrymple, William
+Krakatoa;Winchester, Simon
+Underworld;Hancock, Graham
+The Discworld Companion;Pratchett, Terry & Briggs, Stephen
+Penrose Tiles to Trapdoor Ciphers;Gardner, Martin
+Cities of Vesuvius;Grant, Michael
+KDE 2.0 Development; Sweet, David
+Essential XML;Box, Don
+PC-Lint;Gimpel
+Build a Better Life by Stealing Office Supplies;Adams, Scott
+The Art and Science of Fencing;Evangelista, Nick
+The Science of Fractal Images;Peitgen, Heinz-Otto & Saupe, Dietmar
+
+NF16 - Stuff
+Pictures
+Pooh & piglet
+Diaries
+Nail set?
+Napkins
+Old camera
+Silver butter knives
+SHelley Road corkscrew
+Coaster with cocktail recipe
+Brass knobs
+Nigel correspondence
+Mum - holiday stuff
+June reader's digest
+Dad's glasses
+
+NBK33 - Books
+Dr. Who Annual 1973
+Stingray Annual
+A Cure for Cancer;Moorcock, Michael
+The English Assassin;Moorcock, Michael
+A-Z Guide to Cheats;PC Gamer
+Space Hostages;Fisk, Nicholas
+Trillions;Fisk, Nicholas
+The Jungles of Randomness;Peterson, Ivars
+The River of Adventure;Blyton, Enid
+An Older Kind of Magic;Wrightson. Patricia
+The Nargun adn the Stars;Wrightson, Patricia
+Future History;Pournelle, Jerry
+Ender's Game;Card, Orson Scott
+The Search for Ancient Egypt;Vercoutter, Jean
+Furious Gulf;Benford, Gregory
+East of Ealing;Rankin, Robert
+Bulfinch's Mythology;Bulfinch, Thomas
+Raft;Baxter, Stephen
+A Dark and Hungry God Arises;Donaldson, Stephen R.
+Only Forward;Smith, Michael Marshall
+Strange Monsters of the Recent Past;Waldrop, Howard
+Flatland;Abbott, Edwin
+Einstein's Dreams;Lightman, Alan
+Rumpole a la Carte;Mortimer, John
+Meridian Days;Brown, Eric
+Moving Mars;Bear, Greg
+The Hollowing;Holdstock, Robert
+Brideshead Revisited;Waugh, Evelyn
+Hornblower: Ship of the Line;Forester, C. S.
+Hornblower: Lord Hornblower;Forester, C. S.
+Hornblower: Beat to Quarters;Forester, C. S. 
+Hornblower: Commedore Hornblower;Forester, C. S. 
+The Ragged Astronauts;Shaw, Bob
+Across the Sea of Stars;Benford, Gregory
+The Wench is Dead;Dexter, Colin
+Tides of Light;Benford, Gregory
+Harm's Way;Greenland, Colin
+The Fetch;Holdstock, Robert
+Flying Dutch;Holt, Tom
+Gates of Noon;Rohan, Michael Scott
+Timelike Infinity;Baxter, Stephen
+Rumpole for the Defense;Mortimer, John
+Rumpole and the Golden Thread;Mortimer, John
+Great Sky River;Benford, Gregory
+The Streets of Ankh Morpork;Briggs, Stephen & Pratchett, Terry
+Microcomputer Graphics;Batty, Michael
+
+K7 - Mattie small toys
+
+NF17 - Linux Format
+
+K8 - Computer Games
+Doom 3
+Medieval II Total War
+Domination
+Galactic Civilizations II
+Command & Conquer: Tiberium Wars
+Doom 3: Resurrection of Evil
+Dawn of War: Soulstorm
+Sins of a Solar Empire
+Mechwarrior 4
+Dawn of War: Winter Assault
+Rise & Fall
+Supreme Commander
+Elder Scrolls: Oblivion
+Prey
+Doom Collector's EditionWorms Forts
+The Darkness (XBox)
+Perimeter
+Robot Wars: Extreme Destruction
+Bugs Bunny: Lost in Time
+Treasure Planet: Battle at Procyon
+XMen 2: Wolverine's Revenge
+Medal of Honor: Rising Sun
+PC Gamer Disks
+
+K9 - PC & Console Games
+Metroid Prime (GC)
+Defender (GC)
+Resident Evil (GC)
+Metroid Prine 2: Echoes (GC)
+Judge Dredd: Dredd vs Death (GC)
+Godzilla: Destroy all Monsters (GC)
+Time Splitters: Future Perfect (GC)
+Spyro: Enter the Dragonfly (GC)
+TimeSplitters 2 (GC)
+PC Gamer Disks
+FEAR
+Lemmings 3D
+Worms 4: Mayhem
+Impossible Creatures
+Missile Command
+Spore: Creepy & Cute
+PsiOps: The Mindgate Conspiracy
+Heaven and Hell
+Supreme Commander: Forged Alliance
+Steel Soldiers
+Lego Star Wars
+Star Wars Battlefront II
+Para World
+Supreme Commander
+Lego Star Wars II
+MDK 2
+Universe at War
+Rome Total War: Barbarian Invasion
+Shogun Total War
+Half-Life: Generation
+Command & Conquer: Kane's Wrath
+Command & Conquer: Red-Alert 3
+
+NBK34 - Books
+The Design and Implementation of 4.4 BSD;McKusick, Marshall Kirk
+Futher Engineering Mathematics;Stroud, K. A.
+Advanced Level Physics;Nelkon & Parker
+Writing Solid Code;Maguire, Steve
+Java in a Nutshell, 2nd Edition;Flanagan, David
+Peter Norton's Assembly Language Book for the IBM PC;Norton, Peter & Socha, John
+Black Holes: A Traveler's Guide;Pickover, Clifford A.
+Code Complete;McConnell, Steve
+How Long is a Piece of String;Eastaway, Rob & Wyndham, Jeremy
+The Mythical ManMonth;Brooks Jr., Frederick P.
+Using UML;Pooley, Rob & Stevens, Perdita
+UML Distilled;Fowler, Martin
+Mathematics for Dynamic Modeling;Beltrami, Edward
+Waves;Coulson C. A. & Jeffrey, A.
+Chemistry Made Simple;Hess, Fred C.
+HTML: The Definitive Guide;Musciano, Chuck & Kennedy, Bill
+DB2 For Windows NT;Whitehorn, Mark & Whitehorn, Mary
+Multi-Paradigm DESIGN for C++;Coplien, James O.
+
+Agatha Anne Thornton Writing Case (with NTC stuff)
+
+LBK10 - Books and Notes
+The treasures of Darkness;Jacobsen, Thorkild
+The I Hate Madonna Handbook;Rosenzweig, Ilene
+A History of the Cinema;Rhode, Eric
+The Child and Society;Elkin, Frederick & Handel, Gerald
+The Bakkhai;Euripides
+Ethical Arguments for Analysis;Baum, Robert
+
+NF18 - Stuff
+Wooden box with puzzles
+Rocks from Vesuvius
+Old money bank
+Laurel Wreath
+Mum Jewelry
+Mum Wooden Box
+Box of Mind Teasers
+Unix Notecards
+OUP Libraries & Emacs Notecards
+Crayons
+OLd Camera
+Dead Scorpion
+Old photos
+Postcards
+Chinese brushes
+Visual Illusion Playing Cards
+KES Speech Day 1987
+Old notebooks
+Wooden box with piece of Berlin Wall
+Wooden puzzle
+Escher Puzzle
+Box of change
+Lewis Chwss pieces
+Magnetic Chess Pieces
+Electronic chess
+Rocks of Wales
+Wooden 3D dominoes
+Devil's Horns
+Bowl from Vanessa
+Dad coloured pencils
+Ammonites
+Wonder Plast
+
+NF19 - CDs & Disks
+
+LBK11 - Books
+Thesis;Kranzler, Laura
+Madonna;Taraborrelli, J. Randy
+The Western Front;Holmes, Richard
+Carrie;King, Stephen
+Picking Up the Pieces;Britton, Paul
+Chicken Soup for the Soul;Canfield, Jack & Hansen, Mark Victor
+Fromt the Edge of the Couch;Persaud, Dr. Raj
+Zobmondo;Horn, Randy
+The Tibetan Book of Living and Dying;Rinpoche, Sogyal
+How to Defend Yourself against Alien Invasion;Drufferl, Anne
+Feel the Fear and Beyond;Jeffers, Susan
+Do One Thing Different;O'Hanlon, Bill
+Misery;King, Stephen
+Distance;Thubron, Colin
+Feel the Fear and Do It Anyway;Jeffers, Susan
+Snake Oil;Diamond, John
+The Heroes of Asgard;Keary; A. & E.
+
+LBK12 - Books
+On Writing;King, Stephen
+Pocket Oxford Dictionary
+Chicken Soup for the Soul;Canfield, Jack & Hansen, Mark Victor
+Safe at All Times;Ridgers, Janet
+York Notes: The Taming of the Shrew
+The Artist's Way;Cameron, Julia
+Zeno and the Tortoise;Fearn, Nicholas
+Churchill at War;Gilbert, Martin
+Eccentric Britain;Hannigan, Des
+Halliwell's Film Guide 2004;Walker, John
+Rotten Reviews and Rejections;Henderson, Bill & Bernard, Andre
+The Joy of Writing Sex;Benedict, Elizabeth
+Could Do Better;Hurley, Catherine
+The Gift of Fear;De Becker, Gavin
+
+LBK13 - Books
+D. Phil Thesis;Kranzler, Laura
+The Art of COurtly Love;Capellanus, Andreas
+Spark Notes: Odyssey
+Spark: The Old Testament
+Mercury Reader Options for the Teaching of English
+Discovering the Many Worlds of Literature;Hirschberg, Stuart & Hirschberg, Terry
+Tabloid Dreams;Butler, Robert Olen
+Themes of the Times for Introductory Sociology
+
+Filofaxes
+Candles
+Photo Album (empty)
+Correspondence Set
+Shelley Road Jigsaw
+
+LBK14 - Books
+Common Ground;Kiszner & Mandell
+MLA Handbook, 4th Edition
+The Queen of the Damned;Rice, Anne
+Restraint;Sonnett, Sherry
+Teaching Writing: Theories and Practices;Tarvers, Josephine Koster
+Selections;The New York Review of Books
+Lord Jim;Conrad, Joseph
+The Compact Reader;Aaron, Jane E.
+A Rhetoric of the Unreal;Brooke-Rose, Christine
+Prize Stories 1992;Abrahams, William
+An Introduction to Literature;Chace, William M & Collier, Peter
+Walden and Civil Disobedience;Thoreau, Henry David
+Sunday's Women: Lesbian Life Today;Lewis, Sasha G.
+Oresteia;Aeschylus
+The Work of a Common Woman;Grahn, Judy
+No Paradise But Pleasure;Saxby, Anna Lieff
+Samuel Johnson: A Biography;Wain, John
+Playing God;Goodfield, June
+Learning Through Play;Marzollo, Jean & Lloyd, Janice
+The Oxford Anthology of English Literature: The Restoration and The Eighteenth Century;Prince, Martin
+Powers of Horror;Kristeva, Julia
+A Manual for Writers, Fourth Edition;Turabian, Kate L.
+Our Times, 2;Atwan, Robert
+Our Times, 3;Atwan, Robert
+
+H1 - Kitchen
+Red Lobster Glass
+2 x Blue Champagne Flute
+2 x Clear Champagne Flute
+7 x Smoked glass spirit glasses
+2 x Smoked glass dessert bowls
+Glass brick vase
+Crown shaped candle stick holder
+
+NF20 - Files
+
+NBK35 - Computer Books
+Head First C#;Stellman & Greene
+Head First Java;Sierra & Bates
+Programming Games for Beginners;Howard, Chris
+Win32 System Services;Brain, Marshall
+SAMBA UNIX & NT Internetworking;Deroest, James W.
+Learning Perl;Schwartz, Randal L.
+Rule the Web;Frauenfelder, Mark
+Ending Spam;Zdziarski, Jonathan A.
+Apache: The Definitive Guide;Laurie, Ben & Laurie, Peter
+Learning GNU Emacs;Caneron, Debra & Rosenblatt, Bill
+Teach Yourself Microsoft Excel 2000;Fulron, Jennifer
+Teach Yourself JavaScript;Bride, Mac
+Win32 Multithreaded Programming;Cohen, Aaron & Woodring, Mike
+Data Structures;Lipschutz, Seymour
+Data Structures & Algorithms in Java;Goodrich, Michael T. & Tamassia, Roberto
+
+
+Alex - Boston
+Retief's War;Laumer, Keith
+Retief of the CDT;Laumer, Keith
+
+Comics 3 - Graphics Novels
+2000AD Prog 1661-1715
+Loki
+House of M
+Siege
+Ronin
+Fables: Legends in Exile
+Fables: Animal Farm
+Thor: Gods and Men
+Thor: The Latvarian Prometheus
+Utopia
+Ultimatum Requiem
+Thor: The World Eaters
+Thor, Straczynski
+Ultimatum
+The Order
+Ultimate X-Men 1
+Dark Avengers: Molecule Man
+Thor: Age of Thunder
+March on Ultimatum
+Astonishing X-Men: Unstoppable
+The Curse of Madam C
+New Excaliber: Defenders of the Realm
+Conan: Book of Thoth
+Road to Civil War
+Civil War
+B.P.R.D. Hollow Earth and Other Stories
+B.P.R.D. The Dead
+Thargs Terror Tales
+Ultimate Vision
+WildC.A.T.S Homecoming
+Marvel 1602
+Alan Moore's Wild Worlds
+52 Volume 1
+7 Soldiers of Victory
+Challengers of the Unknown
+iZombie
+
+NBK36 - Books
+The Aeneid; Vergil
+Advanced Assembly Language; Holzner, Steven
+Hex and the City; Green, Simon R.
+Singularity Sky; Stross, Charles
+Accelerando; Stross, Charles
+Sun of Suns;Schroder, Karl
+Chindi;McDevitt, Jack
+The Odyssey;Homer
+Diplomatic Immunity;Bujold, Lois McMaster
+Rhapsody in Black;Stableford, Brian
+CodeBreakers;Hinsley and Stripp
+Collision with Chronos;Bayley, Barringtoin J
+The Hidden Family;Stross, Charles
+The Family Trade;Stross, Charles
+The Lost World;Conan Doyle, Arthur
+The Embedding;Watson, Ian
+Wizardry and Wild ROmance;Moorcock, Michael
+From Hell;Moore, Alan & Campbell, Eddie
+In Code;Flannery, Sarah
+TYS Physics;Breithaupt, Jim
+TYS C++;Riley, Richard
+Iron Sunrise;Stross, Charles
+Horizon Storms;Anderson, Kevin J
+The Well of Lost Plots;Fforde, Jasper
+The Classical World;Fox, Robin Lane
+
+LBK15 - Text Books
+Bridging the Gap: College Reading (Tenth Ed)
+Teaching with The Norton Anthology of American Literature (8th ed)
+The Norton Anthology of American Literature, Volume A, T0 1820 (8th Ed)
+The Norton Anthology of American Literature, Volume B, 1820-1865 (8th Ed)
+The Norton Introduction to Literature (12th Ed)
+The Norton Anthology of English Literature, The Victorian Age, Volume E (9th Ed)
+And Your Point? (6th Ed)
+The Norton Anthology of Drama, Volume 2 (2nd Ed)
+The Norton Anthology of Drama (Shorter 2nd Ed)
+Everything's an Argument (6th Ed)
+Everything's an Argument with Readings (6th Ed)
+
+LBK16 - Text Books
+The Norton Anthology of American Literature, Volume C, 1865-1914 (8th Ed)
+The Norton Anthology of American Literature, Volume D, 1914-1945 (8th Ed)
+The Norton Anthology of American Literature, Volume 1 (Shorter 7th Ed)
+The Riverside Anthology of Children's Literature (6th ed)
+The Little, Brown Handbook;Fowlwer & Aaron (12th ed)
+Reading Critically, Writing Well (11th ed)
+Journeys;Friend & Knight 
+The Norton Anthology of World Literature, Volume D, 1650-1800 (2nd ed)
+Teaching The Norton Anthology of American Literature (Shorter 7th ed)
+Passing;Larsen, Nella
+Engaging Ideas (2nd ed)
+The Curious Researcher; Ballenger Bruce (8th ed)
+Literature, The Human Experience (11th Ed)
+From Inquiry to Academic Writing; Greene & Lidinsky (2nd ed)
+A Pocket Style Manual (7th ed)
+Diversity of America
+A Writer's Reference; Goor & Hacker (6th ed)
+They Say, I Say; Graff & Birkenstein
+The Least You Should Know About Vocabulary Building; Friend & Knight
+
+NF21 - Tax files
+2016
+2015 - Tax
+2013 - Misc
+
+NF22 - Tax Files
+2014
+2013
+
+
+Comics 4 - Graphic Novels
+The Death of Captain Marvel
+Ultimate Fantastic 4 (UK) - 1,2,4
+Captain Marvel - Higher, Further, Faster, More
+Roadkill
+Moon Knight - From the Dead
+The White Room of the Asylum
+Dial H
+The Mighty Thor - The Ballad of Beta Ray Bill
+Manhunter - Street Justice
+Thunderbolts - Caged Angels
+Wasteland - Cities of Dust
+Wasteland - Shades of God
+Wasteland - Black Steel in the Hour of Chaos
+World War Hulk
+Dark Avengers
+The Death of Captain America
+Rivers of London - Bodywork
+JLA Classified - New Maps of Hell
+New Universal - Everything Went WHite
+X-Men - The Day After
+Secret Invasion
+JLA - Rock of Ages
+JLA - Amereican Dreams
+JLA - New World Order
+Avengers Disassembled
+The New Avengers 1 - Breakout
+The New Avengers 2 - Sentry
+The New Avengers 3 - Secrets & Lies
+The New Avengers 4 - The Collective
+The New Avengers 5 - Civil War
+The New Avengers 6 - Revolution
+The Bush Junta
+Like a Velvet Glove Cast in Iron
+Secret Invasion - The Infiltration
+
+
+K9 - Alex Books, Games & Papers
+Notepads
+WPI D&D Folder
+Top Trumps
+Cards
+Misc papers
+Creatures: 30 Years of Monsters
+The Lurker at the Threshold; Lovecraft, H. P.
+C&C Red Alert 3
+C&C Kane's Wrath
+Dominant Species
+Warhammer: Dawn of War
+Startopia
+Pariah
+C&C The First Decade
+C&C Tiberium Wars
+Action Man
+Dragonforce
+
+Comics 5 - 2000AD
+2000AD 1696 - 1960
+
+K10 - Millenium Falcon
+
+NF23 - Financial Docs
+
+K10 - Alex Text Books
+C How to Program; Deitel
+Master Shots; Kenworthy, Christopher
+Automata and Computability; Kozen
+Flexible, Reliable Software; Christensen
+Introduction to Probability; Bertsekas and Tsitsiklis
+UDK Game Development; Thorn
+Machinima; Johnson and Petit
+Discrete Mathematics and Its Applications; Rosen, Kenneth H.
+
+White Dwarf
+
+NF24 - CDs and Floppy Disks
+
+NBK37 - Books
+Thermal and Statistical Physics Simulations; gould and Spornick and Tobochnik
+C Database Development; Stevens, Al
+Statistical Physics; Mandl, F
+Solid State Physics; Hall, H. E.
+Properties of Matter; Flowers and Mendoza
+Comprehensive Chemistry; Hicks
+The Moon Pool; Merritt, A. E.
+The Freeze-Frame Revolution; Watts, Peter
+Teach Yourself Calculus; Abbott, P and Wardle, M. E.
+The Silence of the Langford; Langford, Dave
+Practical Statistics; Langley
+Galileo's Finger; Atkins, Peter
+Skylark Three; Smith, E. E. "Doc"
+Construction Complete; Smith, John
+Spacehounds of IPC; Smith, E. E. "Doc"
+Today We Choose Faces; Zelazny, Roger
+Whizz for Atomms; Willans, Geoffry and Searle, Ronald
+Back in the Jug Agane; Willans, Geoffry and Searle, Ronald
+Viriconium Nights; Harison, M. John
+Empire; Ferguson, Niall
+The Extraordinary Life of Alan Moore; Parkin, Lance
+The Long War; Pratchett, Terry and Baxter, Stephen
+Black Art of Java Game Progamming; Fan and Reis and Tenitchi
+
+NF25 - Christmas Toys
+
+Comics 1
+Starslayer
+Silver Surfer
+Dreadstar
+Fabulous Furry Freak Brothers
+Warlock
+Quantum
+Warrior
+Captain Britain
+The Daredevils
+Teen Titans
+
+NF26 - Engneering Notes
+Pansec + Acquiremedia 2006-2007
+
+NBK7 - Books
+Peter Duck;Ransome, Arthur
+Stuff and Nonsense;De La Mere, Walter
+An Instance of the Fingerpost;Pears, Iain
+Seeress of Kell;Eddings, David
+The Works of Flavius Josephus;Whiston, William
+Frankenstein;Helley, Mary Wollstonecraft & Wrightson, Berni
+Connections;Burke, James
+Caesar's Invasion of Britain;Ellis, Peter Beresford
+Puck of Pook's Hill;Kipling, Rudyard
+Consider Phlebas;Banks, Iain M.
+Use of Weapons;Banks, Iain M.
+Seacon 79, Program;
+The Great Rock and Roll Swindle;Moorcock, Michael
+The Far Side Gallery 2;Larson, Gary
+Fast Coding Techniques for AM2900;Thornton Clark, Nigel
+Thoroughly Ripped;Shelton, Glbert & Sheridan, Dave
+Oxford's Gargoyles and Grotesques;
+Ancient Egypt;Ashmolean Museum
+Practicing to take the GRE Physics Test;
+Scientific American, Microelectronics;
+* Folders of Physics Notes
+
+NBK8 - Books
+Cabin Fever;Bennett, Steve
+Little Horrors
+C/C++ Treasure Chest;Volkman, Victor R
+Introduction to High Energy Physics;Perkins, Donald H
+Project Orion;Dyson, George
+C++ Interactive Course;Lafore,Robert
+Mathematics from the Birth of Numbers;Gullberg, Jan
+Palm Manual
+
+Diary 2007
+Diary 2006
+Diary 2005
+Diary 2004
+Diary 2003
+
+English Plasma Ball
+Sharp calculator
+Second World War playing Cards
+Cards from Laura and Mattie
+
+NP1 - Papers
+Nigel's notes - Base10 & Pansec
+Mum's notes
+Dad's diaries
+Nigel's school work
+Dr. Dobbs Articles
+
+AOB2: Games + Comics
+--------------------
+Rogue Trooper, Fort Neuro
+Titans, Old Friends
+Titans, Lockdown
+Titans, Fractured
+Titans, The Future is Now
+Teen Titans, A Kid's Game
+Teen Titans, Family Lost
+Teen Titans, Beast Boys & Girls
+Teen Titans, Life and DeathTeen Titans, Titans around the World
+Teen Titans, Titans East
+Teen Titans, Titans of Tomorrow
+Teen Titans, On the Clock
+Teen Titans, Changing of the Guard
+Teen Titans/Utsiders, The Insiders
+Teen Titans/Outsiders, The Death and Return of Donna Troy
+Teen Titans Spotlight, Raven
+Crisis on Inifinte Earths
+Infinite Crisis
+Crossed
+Crossed, Family Values
+Crossed, Psychopath
+Moonknight Saga
+Godzilla, Kingdom of Monsters
+Dethlok vs The Goon
+Shakara, The Avenger
+Witch Doctor, Under the Knife
+Witch Doctor, Mal Practice
+Global Frequency, Detonation Radio
+Predator vs Judge
+Predator vs Judge Dredd vs Aliens
+Titans #31
+X-Men, Curse of the MUtants
+Squee's Wonderful Big Giant Book of Unspeakable Horrors
+Pandemonium
+Red/Tokyo Storm Rising
+Prototype
+The Book of Bunny Suicides
+Return of Bunny Suicides
+PC Gamer x 4
+Principles of Interactive Computer Graphics
+
+Dawn of War: Dark Crusade
+Starscape
+Unreal Tournament 2004
+World in Conflict: Soviet Assault
+The Battle for Middle-Earth
+The Battle for Middle-Earth: The Rise of the Witch-King
+Starcraft II: Wings of Liberty
+Starcraft II: Heart of the Swarm
+Rainbow Six: Lockdown
+2142 Battlefield
+
+Dragon Journal
+
+AOB3: Stuff
+-----------
+Display Book
+Sketch Book
+Misc Papers
+Zrik's Scepter
+Warwick Castle Dragon Photo
+Robot Wars Notepad
+Amnesty Internation Notebook
+Warwind
+Nintendo DS Lite
+GUildWars Nightfall
+Dungeons and Dragons Miniatures
+Gettysburg Playing Cards
+The Art of War Book & Cards
+Alex Pencils
+Box of Assorted Lego and Stationary
+Meccano Jeep
+Other Meccano
+Kindle
+
+
+AOB4: MOre Stuff
+----------------
+Marbles
+Poker Chip Set
+Lego Ball
+Meccano/Erector
+Pens
+Lego
+Godzilla
+Wallet
+8 GB Corsair Laptop Ram
+Unopened Reaper Miniatures
+Tardis Mug
+Paper cubes
+Pendulum clock
+Raspberry Pi + power supply
+USB External HD
+USB Joystick
+
+M1 - School
+School Papers
+AP History Books
+Science notebooks
+
+M2 - School
+School Papers (Bridgetown)
+AP English
+
+NF1 - Files
+Oxford Files 
+KES Notes
+
+NF2 - Stuff
+Judge Death Party Poster
+Dad Office Stationary
+Dad Paints
+Salt & Peppr Dish - not in Dad's list
+Pit card game
+Magic Sand Wand
+Nine Men's Morris
+Optical Illusion playing cards
+Old Place Mats
+3 x Leaf ash trays
+2 x Magnifying glass
+Hand made dice
+Card holders
+Dad's folding ruler
+Maps 
+Dad's wallet
+Playing cards
+Car top trumps
+Pedometer
+Clothes brush
+Canasta + patience rules
+Dad's ruler
+Dad's razor
+Lion ash tray
+Nigel's test piece from the Nuclear Physics lab workshop
+Dad's reference photos
+Candle holder
+Mum's papyrus
+Hermes slate
+Chinese slate
+Nigel & Vanessa's tea time tablecloth
+Parker Pen
+Photo pf mum & dad at Holy Trinity
+Cribbage board
+Mum's notes from Denman college
+Nigel's KES cap
+Tiny dictionary
+Tobacco box
+Jewellry Box - keys, coins
+Fossil
+Sinclair calculator
+Silver Spoon
+Nigel's finals pen
+Misc photos
+
+NF3 - Photos
+UK Photos
+
+NF4 - Kid's Books
+Kid's Books
+
+NF5 - Records
+Bank records 2006/2007
+
+NF6 - Wooden Trains
+Thomas the Tank Engine 
+
+NF8 - Stuff
+Silver teapot
+Silver milk jug
+Steel goblets
+Fossils
+Three peg game
+Nigel's wooden car
+Laquered box
+Nigel pottery
+Nigel photos
+Old diaries & address books
+Badges
+Dish made by Mum
+Original black/white plates
+Copper tray from hall at shelley road
+Nigel's Bridgetown school books
+
+Centigrade 232;Calvert, Robert
+ASterix and the Normans;Goscinny & Uderzo
+Sex and the Black Machine;Aldiss, Brian
+The Best of Bushel;Shaw, Bob
+Serious Science;Shaw, Bob
+Sinclair Cambridge Programmable Operating Instructions;
+Aids and Hints in English;
+News from the Sun;Ballard;J. G.
+Sherlock Holmes at Oxford;Utechin, Nicholas
+Unicon3 Convention Booklet;
+
+NF9 - Files
+Photograph Albums
+Interzone 1-5
+Hawkwind Programmes
+Dare;Morrison, Grant
+An Introduction to FORTRAN;Metcalf, Mike
+The Price;Starlin, Jim
+Vector 81
+For a Few Fanzines More
+New Worlds 189
+New Worlds 191
+Proceeding of the School for Youn High Energy Physicists;Cashmore, R
+Gregory;Hempel, Maarc
+Bizarre Adventures 29
+Physics Notes
+Computing Notes
+Nige Goes Walkabout
+Box Files
+
+
+NF10 - Ties
+
+NF11 - Wedding Stuff
+
+NBK14 - Books & Notebooks
+The USe of Lateral Things;de Bono, Edward
+The Mystery of the Screaming Clock;Hitchcock, Alfred
+Teach Yourself Old English;Blakeley, Leslie
+The Mystery of the Moaning Cave;Hitchcock, Alfred
+The Warlock of Firetop Mountain;Jackson, Steve & Livingstone, Ian
+fx-7000GA Owner's Manual;Casio
+The Mystery of the Vanishing Treasure;Hitchcock, Alfred
+The Mystery of the Nervous Lion;Hitchcock, Alfred
+The Mystery of teh Laughing Shadow;Hitchcock, Alfred
+The Mystery of the Fiery Eye;Hitchcock, Alfred
+The Mystery of the Whispering Mummy;Hitchcock, Alfred
+The Secret of Moon Castle;Blyton, Enid
+The Secret of Spiggy Holes;Blyton, Enid
+The Sceret Mountain;Blyton, Enid
+The Mystery of Banshee Towers;Blyton, Enid
+The Mystery of the Silver Spider;Hitchcock, Alfred
+The Mystery of the Singing Serpent;Hitchcock, Alfred
+The Secret Island;Blyton, Enid
+The Ship of Adventure;Blyton, Enid
+The Circus of Adventure;Blyton, Enid
+The Mountain of Adventure;Blyton, Enid
+The Lost World of the Kalahari;van der Post, Laurens
+Mah Jong for Beginners;Kanai, Shozo
+Santorini;Doumas, Christos
+The Acropolis of Athens;
+
+Software Engineering Notes - 1993
+Notebook 1990-07-20 - 1991-04-02 OUP
+Notebook 1997-09-04 - 1997-11-28 Base 10
+Notebook 1997-12-01 - 1998-03-16 Base 10
+Notebook 1998-03-16 - 1998-05-19 Base 10
+Notebook 1998-05-23 - 1998-10-22 Base 10
+Notebook 1999-01-26 - 1999-03-10 ITNet/BCC
+Notebook 1999-03-11 - 1999-05-28 ITNet/BCC
+Notebook 1999-07-16 - 1999-09-03 CMS
+Notebook 1999-09-03 - 1999-11-02 CMS
+Notebook 1999-11-04 - 2000-03-02 CMS
+Notebook 2000-03-03 - 2000-08-03 CMS
+Notebook 2000-08-03 - 2000-10-06 Pansec
+Notebook 2000-10-06 - 2000-12-08 Pansec
+Notebook 2000-12-11 - 2001-02-08 Pansec
+
+Letters from Laura
+Dinosaur Project
+
+NF12 - Comics
+Photograph album
+Stamp collection
+Call of Cthulhu: Fatal Experiments
+Inventions;Heath Robinson, W.
+Time Team 96
+Time Team 97
+Time Team 98
+The Gunpowder Plot
+Comics
+
+LBK1 - Books
+Reading Between the Lines - Taylor, Linda
+Titue Alone;Peake, Mervyn
+The Sadean Woman;Carter, Angela
+Mhomet the Prophet;Voltaire
+Pornography and Sexual Violence
+The Color Purple;Walker, Alice
+The Spire;Golding, William
+Freud 7: On Sexuality;Freud, Sigmund
+Outrageous Acts and Everyday Rebellions;Steinem, Gloria
+Selected Writings of Ralph Waldo Emerson;Emerson, Ralph Waldo
+Lie Down and Roll Over;Erskine, Jim & Moran, George
+Matrimonial Ceremonies Displayed
+The Elements of Social Scientific Thinking;Hoover, Kenneth R.
+Gravity's Rainbow;Pynchon, Thomas
+Sexual Fiction;Charney, Maurice
+Dazzle;Krantz, Judith
+Flowers in the Blood;Courter, Gay
+It's Me Eddie;Limonov, Edward
+V;Pynchon, Thomas
+The Bleeding Heart;French, Marilyn
+Cashing in at the Checkout;Smtur, Susan
+The Frugal Gourmet;Smith, Jeff
+Changing Places;Lodge, David
+Maldoror;Lautreamont
+Selected Poems;Williams, William Carlos
+All Men Are Bastards Address Book
+The Assault on Truth;Masson, J. M.
+Ethan Frome;Wharton, Edith
+The Burden of Proof;Turow, Scott
+Bless the Beasts & Children;Swarthout, Glendon
+The Elementary Forms of religious Life;Durkheim, Emile
+Civilizing the Machine;Kasson, John F.
+Ascent of the Mountain, Flight of the Dove;Novak, Michael
+In Praise of Shadows;Tanizaki, Junichiro
+Myths and Symbols in Indian Art and Civilization;Zimmer, Heinrich
+Literature, The Human Experience;Abcarian, Richard & Klotz, Marvin
+
+Laura's College Essays
+Laura's College Exam Questions
+Oxford Correspondence
+
+NBK18 - Books
+The Spice Island Voyage;Severin, Tim
+PCPlus Whitepapers
+Neutral Buoyancy;Ecott, Tim
+Life's Other Secret;Stewart, Ian
+Poems of Catullus;MAcneghten, H. V. & Ramsay, A. B.
+Roman History;Goldsmith
+The Golden Book of Marcus Aurelius
+Man's Place in Nature and Other Essays;Huxley, T. H.
+The Odyssey;Homer
+Rasselas, Catle of Otranto, Vathek
+A literary Historical Atlas of Asia
+Packwoord House
+Mathematics, A Very Short Introduction;Gowers, Timothy
+The Jungle Book;Kipling, Rudyard
+History of the Peloponnesian War;Thucydides
+The Kipling Reader;Kipling, Rudyard
+De Rerum Natura;Lucretius
+Sir Nigel;Conan Doyle, A
+Supernature,Watson, Lyall
+Future Shock;Toffler, Alvin
+Euclid's Elements;Todhunter, Isaac
+Over Sea, Under Stone;Cooper, Susan
+The Dragons of Eden;Sagan, Carl
+Other Worlds;Sagan, Carl
+The Naked Consumer;Larson, Erik
+Archimedes Revenge;Hoffman, Paul
+The Cosmic Blueprint;Davies, Paul
+Theories of Everything;Barrow, John D.
+The White Deer;Thurber, James
+Masks of the Illuminati;Wilson, Robert Anton
+Technicolor Time Machine;Harrison, Harry
+Heart of the Comet;Benford, Greg & Brin, David
+Bored of the Rings;Harvard Lampoon
+The Einstein Intersection;Delany, Samuel R.
+The Ringworld Engineers;Niven, Larry
+A for Andromeda;Hoyle Fred & Elliot, John
+Profiles of the Future;Clarke, Arthur C.
+The Green Hills of Earth;Heinlein, Robert
+Orphans of the Sky;Heinlein, RObert
+Reach for Tomorrow;Clarke, Arthur C.
+Perry Rhodan 5: The Vega Sector;Scheer, K. H. & Mahr, Kurt
+Perry Rhodan 6: The Secret of the Time Vault;Darlton, Clark
+Perry Rhodan 7: Fortress of the Six Moons;Scheer, K. H.
+Perry Rhodan 8: The Galactic Riddle;Darlton, Clark
+Perry Rhodan 9: Quest through Space and Time;Darlton, Clark
+Before thr Golden Age 1;Asimov, Isaac
+Dangerous Visions 2;Ellison, Harlan
+The Geranium of Flut;Rushton, William
+The Russian Intelligence;Moorcock, Michael
+Poems and Ballads;Swinburne, Algernon Charles
+Sorcery;Jackson, Steve
+Sorcery 2:Khare - Cityport of Traps;Jackson, Steve
+Sorcery 3:The Seven Serpents;Jackson, Steve
+I Spy Wild Fruits and Fungi
+Bones of the Moon;Carroll, Jonathan
+Thieves' World;Asprin, Robert
+Shadows of Sanctuary;Asprin, Robert
+Tales from the Vulgar Unicorn;Asprin, Robert
+Storm Season;Asprin, Robert
+The Weirdstone of Brisingamen;Garner, Alan
+Black Holes in Space;Moore, Patrick & Nicolson, Iain
+The Stars in their Courses;Asimov, Isaac
+The Left Hand of the Electron;Asimov, Isaac
+The Uplift War;Brin, David
+
+
+Ring Leaf Notebook
+A-Z Birmingham
+Bible from Mum & Dad
+Bible from Crusaders
+
+NF13 - KId's Toys
+
+NBK19 - Books
+Anatomy, Physiology and Hygiene;Raeburn
+The Gardens of Aedena;Moebius
+The Shores of Death;Moorcock, Michael
+The Rituals of Infinity;Moorcock, Michael
+Two Noble Kinsmen;Shakespeare, William & Fletcher, John
+The Revenger's Tragedy;Tourner, Cyril
+The Fair Maid of the West;Heywood, Thomas
+Titus Andronicus;Shakespeare, William
+Frontier Crossings: Conspiracy 87
+The Penguin Dictionary of Physics;Pitt, Valerie H.
+Essentials of Advanced Calculus 1
+Essentials of Differential Equations 1
+Introduction to Applied Mathematics;Strang
+Classical Electrodynamics;Jackson
+Roofworld;Fowker, Christopher
+The Silmarillion;Tolkein, J.R.R.
+The Second Rumpole Omnibus;Mortimer, John
+The Theory of Numbers;Baker, Alan
+Physical Fitness
+The Elizabethan World Picture,Tillyard, E. M. W.
+University Architecture: An Oxford Walk;Sheehy, Jeanne
+Gasping;Elton, Ben
+The Hithhiker's Guide to the Galaxy;Infocom
+GRidlick;Elton, Ben
+The Fortress of the Pearl;Moorcock, Michael
+Electricity and Magnetism;Bleaney & Bleany
+Serpent's Blood;Stableford, Brian
+Electromagnetic Fields and Waves;Lorrain & Corson
+
+Theatre Programmes
+New Worlds
+Comics
+
+NBK20 - Books
+Treasure Island;Stevenson, Robert Louis
+Beasts in my Belfry;Durrell, Gerald
+The Garden of the Gods;Durrell, Gerald
+Menagerie Manor;Durrell, Gerald
+Catch Me a Colobus;Durrell, Gerald
+The Whispering Land;Durrell, Gerald
+The Picnic and Suchlike Pandemonium;Durrell, Gerald
+Rosy is my Relative;Durrell, Gerald
+Two in the Bush;Durrell, Gerald
+The New Noah;Durrell, Gerald
+Encounters with Animals;Durrell, Gerald
+Golden Bats and Pink Pigeons;Durrell, Gerald
+The Drunken Forest;Durrell, Gerald
+The Bafut Beagles;Durrell, Gerald
+A Zoo in My Luggage;Durrell, Gerald
+Fillets of Plaice;Durrell, Gerald
+Practical Thinking;De Bono, Edward
+Programming the M68000;King, Tim
+A Practical Course on Operating Systems;Theaker, Colin J. & Brookes, Graham R.
+Chasm City;Reynolds, Alastair
+Witch Week;Wynne Jones, Diana
+Dark Crusade;Wagner, Karl Edward
+Queen of Sorcery;Eddings, David
+Magician's Gambit;Eddings, David
+
+2000AD 1096-1431
+
+K1 - Small TOys
+
+K2 - Alex High School
+
+NBK21 - Books
+The Life of Brian;Python, Monty
+The House on the Borderland;Hodgson, William Hope
+Looking for the Mahdi;Wood,N. Lee
+The Lord of Middle Air;Rohan, Michael Scott
+The Wind on the Moon;Linklater, Eric
+Unnatural Death;Sayers, Dorothy L.
+Hexwood;Wynne Jones, Diana
+Stormbringer;Moorcock, Michael
+The Eues of the Fleet;Price, Anthony
+Through the Looking Glass;Carroll, Lewis
+The Scret Seven;Blyton, Enid
+The Werewolves of London;Stableford, Brian
+Full Moon;Wodehouse, P. G.
+Stig of the Dump;King, Clive
+The Drawing of the Dark;Powers, Tim
+Nightwinds;Wagner, Karl Edward
+Gate of Ivory;Holdstock, Robert
+Marrow;Reed Robert
+Salamander's Fire;Stableford, Brian
+Ill Met in Lankhmar;Leiber, Fritz
+
+2000AD 1221-1370
+2000AD Progs 2000-2004
+
+LBK6 - Papers & Books
+College essays and bank statements
+
+Selected Poems and Two Plays;Yeats, William Butler
+New French Feminisms;Marks, Elaine & de Courtivron, Isabelle
+Science Fiction: Its Criticism and Teaching;Parrinder, Patrick
+Dracula: The Novel and The Legend;Leatherdale, Clive
+The Romance of Tristan & Iseult;Bedier, Joseph
+
+NF14 - Files
+Computing & Physics
+
+LC1 - Laura Correspondence
+
